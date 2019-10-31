@@ -1,0 +1,281 @@
+2019-10-31 12:32:07 INFO  RestAPI:21 -  First GET Request
+2019-10-31 12:32:12 INFO  RestAPI:55 - Finished GET Request
+2019-10-31 12:42:13 INFO  RestAPI:20 - ***** Started GET Request By ID *****
+2019-10-31 12:42:18 INFO  RestAPI:55 -  Finish
+2019-10-31 12:44:45 INFO  RestAPI:21 -  First GET Request
+2019-10-31 12:44:50 INFO  RestAPI:55 - Finish
+2019-10-31 12:47:46 INFO  RestAPI:21 -  First GET Request
+2019-10-31 12:47:50 INFO  RestAPI:38 -  Checking validation for GET Request
+2019-10-31 12:47:51 INFO  RestAPI:40 - Response_Body----[
+    {
+        "id": 408409255,
+        "title": "inbox",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "inbox",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-23T09:30:28.945Z",
+        "type": "list"
+    }
+]
+2019-10-31 12:47:51 INFO  RestAPI:46 - Status_Code----200
+2019-10-31 12:47:51 INFO  RestAPI:55 - Finish
+2019-10-31 12:58:39 INFO  RestAPI:21 -  First GET Request
+2019-10-31 12:58:43 INFO  RestAPI:38 -  Checking validation for GET Request
+2019-10-31 12:58:43 INFO  RestAPI:40 - Response_Body----[
+    {
+        "id": 408409255,
+        "title": "inbox",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "inbox",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-23T09:30:28.945Z",
+        "type": "list"
+    }
+]
+2019-10-31 12:58:43 INFO  RestAPI:46 - Status_Code----200
+2019-10-31 12:58:43 INFO  RestAPI:55 - Finish
+2019-10-31 13:00:05 INFO  RestAPI:20 - ***** Started GET Request By ID *****
+2019-10-31 13:00:11 INFO  RestAPI:37 -  Checking Response Body for GET Request By ID
+2019-10-31 13:00:11 INFO  RestAPI:39 - Response_Body----{
+    "error": {
+        "type": "permission_error",
+        "translation_key": "api_error_permission_error",
+        "message": "You've not enough permissions.",
+        "permissions": "failed"
+    }
+}
+2019-10-31 13:00:11 INFO  RestAPI:55 -  Finish
+2019-10-31 13:00:35 INFO  RestAPI:20 - ***** Started GET Request By ID *****
+2019-10-31 13:00:40 INFO  RestAPI:37 -  Checking Response Body for GET Request By ID
+2019-10-31 13:00:40 INFO  RestAPI:39 - Response_Body----{
+    "error": {
+        "type": "permission_error",
+        "translation_key": "api_error_permission_error",
+        "message": "You've not enough permissions.",
+        "permissions": "failed"
+    }
+}
+2019-10-31 13:00:40 INFO  RestAPI:55 -  Finish
+2019-10-31 13:00:57 INFO  RestAPI:21 -  First GET Request
+2019-10-31 13:01:02 INFO  RestAPI:38 -  Checking validation for GET Request
+2019-10-31 13:01:02 INFO  RestAPI:40 - Response_Body----[
+    {
+        "id": 408409255,
+        "title": "inbox",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "inbox",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-23T09:30:28.945Z",
+        "type": "list"
+    }
+]
+2019-10-31 13:01:02 INFO  RestAPI:46 - Status_Code----200
+2019-10-31 13:01:02 INFO  RestAPI:55 - Finish
+2019-10-31 13:01:37 INFO  RestAPI:20 - ***** Started GET Request By ID *****
+2019-10-31 13:01:43 INFO  RestAPI:37 -  Checking Response Body for GET Request By ID
+2019-10-31 13:01:43 INFO  RestAPI:39 - Response_Body----{
+    "id": 408409255,
+    "title": "inbox",
+    "owner_type": "user",
+    "owner_id": 96532794,
+    "list_type": "inbox",
+    "public": false,
+    "revision": 1,
+    "created_at": "2019-10-23T09:30:28.945Z",
+    "type": "list"
+}
+2019-10-31 13:01:43 INFO  RestAPI:45 - Status_Code------200
+2019-10-31 13:01:43 INFO  RestAPI:55 -  Finish
+2019-10-31 14:37:22 INFO  RestAPI:30 - POST Request
+2019-10-31 14:38:11 INFO  RestAPI:30 - POST Request
+2019-10-31 14:38:29 INFO  RestAPI:30 - POST Request
+2019-10-31 14:38:39 INFO  RestAPI:30 - POST Request
+2019-10-31 14:39:50 INFO  RestAPI:30 - POST Request
+2019-10-31 14:40:32 INFO  RestAPI:30 - POST Request
+2019-10-31 14:42:12 INFO  RestAPI:30 - POST Request
+2019-10-31 14:43:37 INFO  RestAPI:30 - POST Request
+2019-10-31 14:44:35 INFO  RestAPI:30 - POST Request
+2019-10-31 14:45:30 INFO  RestAPI:30 - POST Request
+2019-10-31 14:45:50 INFO  RestAPI:30 - POST Request
+2019-10-31 14:48:50 INFO  RestAPI:30 - POST Request
+2019-10-31 14:54:13 INFO  RestAPI:29 - POST Request
+2019-10-31 15:01:26 INFO  RestAPI:29 - POST Request
+2019-10-31 15:02:03 INFO  RestAPI:29 - POST Request
+2019-10-31 16:05:04 INFO  RestAPI:23 -  First GET Request
+2019-10-31 16:05:09 INFO  RestAPI:40 -  Checking validation for GET Request
+2019-10-31 16:05:09 INFO  RestAPI:42 - Response_Body----[
+    {
+        "id": 408409255,
+        "title": "inbox",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "inbox",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-23T09:30:28.945Z",
+        "type": "list"
+    }
+]
+2019-10-31 16:05:09 INFO  RestAPI:64 - Finish
+2019-10-31 16:06:03 INFO  RestAPI:18 - POST Request
+2019-10-31 16:06:09 INFO  RestAPI:34 - Delete Operation Started
+2019-10-31 16:13:05 INFO  RestAPI:18 - POST Request
+2019-10-31 16:13:11 INFO  RestAPI:34 - Delete Operation Started
+2019-10-31 16:14:52 INFO  RestAPI:19 - POST Request
+2019-10-31 16:14:58 INFO  RestAPI:35 - Delete Operation Started
+2019-10-31 16:14:58 INFO  RestAPI:37 - Status_Code------405
+2019-10-31 16:16:38 INFO  RestAPI:19 - POST Request
+2019-10-31 16:16:43 INFO  RestAPI:35 - Delete Operation Started
+2019-10-31 16:16:43 INFO  RestAPI:37 - Status_Code------405
+2019-10-31 16:17:19 INFO  RestAPI:23 -  First GET Request
+2019-10-31 16:17:24 INFO  RestAPI:40 -  Checking validation for GET Request
+2019-10-31 16:17:24 INFO  RestAPI:42 - Response_Body----[
+    {
+        "id": 408409255,
+        "title": "inbox",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "inbox",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-23T09:30:28.945Z",
+        "type": "list"
+    }
+]
+2019-10-31 16:17:24 INFO  RestAPI:64 - Finish
+2019-10-31 16:17:43 INFO  RestAPI:19 - POST Request
+2019-10-31 16:17:49 INFO  RestAPI:35 - Delete Operation Started
+2019-10-31 16:17:49 INFO  RestAPI:37 - Status_Code------405
+2019-10-31 16:39:48 INFO  RestAPI:20 - POST Request
+2019-10-31 16:39:55 INFO  RestAPI:46 - Delete Operation Started
+2019-10-31 16:39:55 INFO  RestAPI:48 - Status_Code------405
+2019-10-31 16:44:44 INFO  RestAPI:19 - Delete Request
+2019-10-31 16:44:51 INFO  RestAPI:46 - Delete Operation Started
+2019-10-31 16:44:51 INFO  RestAPI:48 - Status_Code------405
+2019-10-31 16:49:28 INFO  RestAPI:19 - Delete Request
+2019-10-31 16:49:35 INFO  RestAPI:46 - Delete Operation Started
+2019-10-31 16:49:36 INFO  RestAPI:49 - Status_Code------405
+2019-10-31 16:50:55 INFO  RestAPI:19 - Delete Request
+2019-10-31 16:51:54 INFO  RestAPI:19 - Delete Request
+2019-10-31 16:52:01 INFO  RestAPI:47 - Delete Operation Started
+2019-10-31 16:52:01 INFO  RestAPI:50 - Status_Code------405
+2019-10-31 16:52:42 INFO  RestAPI:19 - Delete Request
+2019-10-31 16:52:50 INFO  RestAPI:47 - Delete Operation Started
+2019-10-31 16:52:50 INFO  RestAPI:50 - Status_Code------405
+2019-10-31 16:54:19 INFO  RestAPI:19 - Delete Request
+2019-10-31 16:54:46 INFO  RestAPI:19 - Delete Request
+2019-10-31 16:55:13 INFO  RestAPI:23 -  First GET Request
+2019-10-31 16:55:17 INFO  RestAPI:40 -  Checking validation for GET Request
+2019-10-31 16:55:17 INFO  RestAPI:42 - Response_Body----[
+    {
+        "id": 408409255,
+        "title": "inbox",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "inbox",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-23T09:30:28.945Z",
+        "type": "list"
+    }
+]
+2019-10-31 16:55:18 INFO  RestAPI:64 - Finish
+2019-10-31 16:58:11 INFO  RestAPI:29 - POST Request
+2019-10-31 16:58:47 INFO  RestAPI:29 - POST Request
+2019-10-31 16:59:35 INFO  RestAPI:29 - POST Request
+2019-10-31 17:00:46 INFO  RestAPI:29 - POST Request
+2019-10-31 17:01:31 INFO  RestAPI:29 - POST Request
+2019-10-31 17:02:07 INFO  RestAPI:29 - POST Request
+2019-10-31 17:02:28 INFO  RestAPI:29 - POST Request
+2019-10-31 17:02:56 INFO  RestAPI:29 - POST Request
+2019-10-31 17:07:14 INFO  RestAPI:29 - POST Request
+2019-10-31 17:24:26 INFO  RestAPI:26 - POST Request
+2019-10-31 17:28:25 INFO  RestAPI:26 - POST Request
+2019-10-31 17:30:21 INFO  RestAPI:26 - POST Request
+2019-10-31 17:31:45 INFO  RestAPI:26 - POST Request
+2019-10-31 17:35:58 INFO  RestAPI:29 - POST Request
+2019-10-31 17:48:14 INFO  RestAPI:29 - POST Request
+2019-10-31 17:49:17 INFO  RestAPI:29 - POST Request
+2019-10-31 17:49:42 INFO  RestAPI:23 -  First GET Request
+2019-10-31 17:49:47 INFO  RestAPI:40 -  Checking validation for GET Request
+2019-10-31 17:49:47 INFO  RestAPI:42 - Response_Body----[
+    {
+        "id": 408409255,
+        "title": "inbox",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "inbox",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-23T09:30:28.945Z",
+        "type": "list"
+    },
+    {
+        "id": 409061487,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:01:44.740Z",
+        "type": "list"
+    },
+    {
+        "id": 409062633,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:19:20.619Z",
+        "type": "list"
+    }
+]
+2019-10-31 17:49:47 INFO  RestAPI:64 - Finish
+2019-10-31 17:50:12 INFO  RestAPI:19 - Delete Request
+2019-10-31 17:50:19 INFO  RestAPI:47 - Delete Operation Started
+2019-10-31 17:50:20 INFO  RestAPI:50 - Status_Code------405
+2019-10-31 17:51:49 INFO  RestAPI:29 - POST Request
+2019-10-31 18:05:55 INFO  RestAPI:26 -  PATCH Request 
+2019-10-31 18:05:56 INFO  RestAPI:36 -  Data for Patch1
+2019-10-31 18:07:13 INFO  RestAPI:26 -  PATCH Request 
+2019-10-31 18:07:13 INFO  RestAPI:36 -  Data for Patch1
+2019-10-31 18:08:29 INFO  RestAPI:26 -  PATCH Request 
+2019-10-31 18:08:29 INFO  RestAPI:36 -  Data for Patch1
+2019-10-31 18:11:47 INFO  RestAPI:26 -  PATCH Request 
+2019-10-31 18:14:36 INFO  RestAPI:26 - POST Request
+2019-10-31 18:14:53 INFO  RestAPI:29 - POST Request
+2019-10-31 18:15:29 INFO  RestAPI:26 -  PATCH Request 
+2019-10-31 18:16:25 INFO  RestAPI:26 -  PATCH Request 
+2019-10-31 18:17:12 INFO  RestAPI:26 -  PATCH Request 
+2019-10-31 18:18:32 INFO  RestAPI:29 - POST Request
+2019-10-31 18:18:46 INFO  RestAPI:26 -  PATCH Request 
+2019-10-31 18:20:32 INFO  RestAPI:26 -  PATCH Request 
+2019-10-31 18:21:30 INFO  RestAPI:26 -  PATCH Request 
+2019-10-31 18:22:54 INFO  RestAPI:26 -  PATCH Request 
+2019-10-31 18:29:03 INFO  RestAPI:26 -  PATCH Request 
+2019-10-31 18:29:43 INFO  RestAPI:26 -  PATCH Request 
+2019-10-31 18:41:05 INFO  RestAPI:26 -  PATCH Request 
+2019-10-31 18:41:27 INFO  RestAPI:26 -  PATCH Request 
+2019-10-31 18:42:03 INFO  RestAPI:26 -  PATCH Request 
+2019-10-31 18:42:42 INFO  RestAPI:26 -  PATCH Request 
+2019-10-31 18:43:57 INFO  RestAPI:26 -  PATCH Request 
+2019-10-31 18:47:06 INFO  RestAPI:26 - POST Request
+2019-10-31 18:47:42 INFO  RestAPI:26 -  PATCH Request 
+2019-10-31 18:48:20 INFO  RestAPI:26 -  PATCH Request 
+2019-10-31 18:48:35 INFO  RestAPI:26 -  PATCH Request 
+2019-10-31 18:48:50 INFO  RestAPI:26 -  PATCH Request 
+2019-10-31 18:49:00 INFO  RestAPI:26 -  PATCH Request 
+2019-10-31 18:54:10 INFO  RestAPI:26 -  PATCH Request 
+2019-10-31 18:55:55 INFO  RestAPI:26 -  PATCH Request 
+2019-10-31 18:56:21 INFO  RestAPI:26 -  PATCH Request 
+2019-10-31 18:59:51 INFO  RestAPI:26 -  PUT Request 
+2019-10-31 19:00:16 INFO  RestAPI:26 -  PUT Request 
