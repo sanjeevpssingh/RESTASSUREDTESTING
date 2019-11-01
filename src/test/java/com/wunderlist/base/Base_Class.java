@@ -9,8 +9,12 @@ import java.util.List;
 import org.apache.log4j.Level;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
+import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeClass;
+import org.testng.annotations.BeforeSuite;
 
+import com.aventstack.extentreports.ExtentReports;
+import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 import com.wunderlist.commonUtils.ReportLib;
 
 import io.restassured.response.Response;
@@ -23,6 +27,17 @@ public class  Base_Class extends ReportLib
 	public static Response response;
 	
 	public Logger logg;
+	ExtentHtmlReporter extentHTML ;
+	public static ExtentReports ex=new ExtentReports();
+
+	@BeforeSuite	
+	public void reportSetUp()
+	{
+		extentHTML = new ExtentHtmlReporter("extentReportApi.html");
+		ex = new ExtentReports();
+		ex.attachReporter(extentHTML);
+	}
+
 	
 	@BeforeClass
 	public void setUp()
@@ -46,4 +61,8 @@ public class  Base_Class extends ReportLib
 		 }
 		 return (ArrayList<String>) list;
 		} 
+	@AfterSuite
+	public void reportTeardown() {
+		ex.flush();
+	}
 }

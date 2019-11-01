@@ -51,7 +51,7 @@ public class TC004_POST2_Data extends Base_Class
 		}
 		lineReader.close(); 
 		
-		ExtentTest tst = ex.createTest("POST_1", "Check validation of POST2 Request");
+		ExtentTest tst = ex.createTest("POST_CASE2", "Check validation of POST2 Request");
 		JSONObject json = new JSONObject();
 		
 		json.put("title", list.get(2));
@@ -64,8 +64,20 @@ public class TC004_POST2_Data extends Base_Class
 
 
 		int code = response.getStatusCode();
+		tst.log(Status.INFO, "Status code of POST_2 Request");
 		Assert.assertEquals(code, 201);
-     	tst.log(Status.INFO, "Status code of POST_2 Request");
+     	
+		if(code==201)
+		{
+			tst.log(Status.PASS, "Test Passed");
+
+		}
+		else
+		{
+			tst.log(Status.FAIL, "Test failed");
+	
+		}
+
 	}
 
 }

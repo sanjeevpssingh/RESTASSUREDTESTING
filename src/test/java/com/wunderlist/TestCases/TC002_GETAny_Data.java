@@ -32,26 +32,51 @@ public class TC002_GETAny_Data extends Base_Class
 	@Test
 	public void check_Response()
 	{
-		ExtentTest tst = ex.createTest("Test", "Check GET Request by ID");
+		ExtentTest tst = ex.createTest("GET2_CASE2_RESPONSE", "Check GET Request by ID");
 
 		logg.info(" Checking Response Body for GET Request By ID");
 		String responseBody=response.prettyPrint();
 		logg.info("Response_Body----"+responseBody);
-
-		Assert.assertEquals(responseBody.contains("408409255"),true);
 		tst.log(Status.INFO, "Response Body for GET Request by ID");
+		Assert.assertEquals(responseBody.contains("408409255"),true);
+		if(responseBody.contains("408409255"))
+		{
+
+			tst.log(Status.PASS, "Test Passed");
+
+		}
+		else
+		{
+			tst.log(Status.FAIL, "Test failed");
+	
+		
+		}
+
+		
+		
 		
 	}
 	
 	@Test
 	public void check_statusCode()
 	{
-		ExtentTest tst = ex.createTest("Test", "Check GET Request by ID");
+		ExtentTest tst = ex.createTest("GET2_CASE2_STATUS", "Check GET Request by ID");
 		int code=response.getStatusCode();
 		logg.info("Status_Code------"+code);
-
-		Assert.assertEquals(code, 200);
 		tst.log(Status.INFO, "Status Code for GET Request by ID");
+		Assert.assertEquals(code, 200);
+		
+		if(code==200)
+		{
+			tst.log(Status.PASS, "Test Passed");
+
+		}
+		else
+		{
+			tst.log(Status.FAIL, "Test failed");
+	
+		}
+
 
 	}
 

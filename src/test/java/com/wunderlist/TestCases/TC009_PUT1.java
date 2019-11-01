@@ -46,14 +46,14 @@ public class TC009_PUT1 extends Base_Class
 		}
 		lineReader.close(); 
 
-		ExtentTest test1 = ex.createTest("PUT_1", "Check validation of PUT Request");
+		
 		JSONObject json1 = new JSONObject();
 		json1.put("title", list.get(7));
 		json1.put("revision", Integer.parseInt((String) list.get(8)));
-		
-	//	System.out.println(list.get(4));
-		 
-        Request.pathParam("id",   409064536);
+
+		//	System.out.println(list.get(4));
+
+		Request.pathParam("id",   409064536);
 
 		Request.header("Content-Type","application/json");
 		Request.body(json1.toString());
@@ -61,8 +61,50 @@ public class TC009_PUT1 extends Base_Class
 		response = Request.request(Method.PUT, "/lists/{id}");
 		response.prettyPrint();
 
+	}
+
+//
+//	@Test
+//	public void check_Response()
+//	{
+//		ExtentTest tst = ex.createTest("PUT_CASE1_RESPONSE", "Check Put1 Request ");
+//		String response_body=response.getBody().asString();
+//		tst.log(Status.INFO, "Response Code for Patch2 Request");
+//		Assert.assertEquals(response_body.contains("successfully implemented"), true);
+//		
+//		if(response_body.contains("successfully implemented"))
+//		{
+//
+//			tst.log(Status.PASS, "Test Passed");
+//
+//		}
+//		else
+//		{
+//			tst.log(Status.FAIL, "Test failed");
+//	
+//		
+//		}
+//		
+//
+//	}
+
+	@Test
+	public void check_status()
+	{
+		ExtentTest tst = ex.createTest("PUT_CASE1_STATUS", "Check Put1 Request ");
 		int code = response.getStatusCode();
+		tst.log(Status.INFO, "Response Code for Put2 Request");
 		Assert.assertEquals(code, 200);
-		test1.log(Status.INFO, "Status code of first PUT1 Request");
+		if(code==200)
+		{
+			tst.log(Status.PASS, "Test Passed");
+
+		}
+		else
+		{
+			tst.log(Status.FAIL, "Test failed");
+	
+		}
+
 	}
 }

@@ -46,7 +46,7 @@ public class TC007_PATCH1 extends Base_Class
 		}
 		lineReader.close(); 
 
-		ExtentTest test1 = ex.createTest("PATCH_1", "Check validation of PATCH1 Request");
+		
 		JSONObject json1 = new JSONObject();
 		json1.put("title", list.get(3));
 		json1.put("revision", Integer.parseInt((String) list.get(4)));
@@ -60,9 +60,51 @@ public class TC007_PATCH1 extends Base_Class
 
 		response = Request.request(Method.PATCH, "/lists/{id}");
 		response.prettyPrint();
-
+		
+	}
+	
+//	
+//	@Test
+//	public void check_Response()
+//	{
+//		ExtentTest tst = ex.createTest("PATCH_CASE1_RESPONSE", "Check Patch1 Request ");
+//		String response_body=response.getBody().asString();
+//		tst.log(Status.INFO, "Response Code for Patch1 Request");
+//		Assert.assertEquals(response_body.contains("successfully Patched record"), true);
+//		
+//		
+//		
+//		if(response_body.contains("successfully Patched record"))
+//		{
+//
+//			tst.log(Status.PASS, "Test Passed");
+//
+//		}
+//		else
+//		{
+//			tst.log(Status.FAIL, "Test failed");
+//			
+//		}		
+//	}	
+//	
+	@Test
+	public void Check_Status()
+	{
+		ExtentTest tst = ex.createTest("PATCH_CASE1_STATUS", "Check validation of PATCH1 Request");
 		int code = response.getStatusCode();
+		tst.log(Status.INFO, "Status code of first PATCH1 Request");
 		Assert.assertEquals(code, 200);
-		test1.log(Status.INFO, "Status code of first PATCH1 Request");
+		if(code==200)
+		{
+			tst.log(Status.PASS, "Test Passed");
+
+		}
+		else
+		{
+			tst.log(Status.FAIL, "Test failed");
+	
+		}
+
+		
 	}
 }

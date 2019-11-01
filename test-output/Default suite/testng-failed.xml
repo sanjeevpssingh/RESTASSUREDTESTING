@@ -3,14 +3,16 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.wunderlist.TestCases.TC010_PUT2">
+      <class name="com.wunderlist.TestCases.TC007_PATCH1">
         <methods>
-          <include name="put"/>
+          <include name="reportTeardown"/>
           <include name="setUp"/>
-          <include name="put_Data"/>
+          <include name="check_Response"/>
           <include name="reportSetUp"/>
+          <include name="Check_Status"/>
+          <include name="patch"/>
         </methods>
-      </class> <!-- com.wunderlist.TestCases.TC010_PUT2 -->
+      </class> <!-- com.wunderlist.TestCases.TC007_PATCH1 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

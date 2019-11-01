@@ -35,13 +35,27 @@ public class TC001_GETAll_Data extends Base_Class  {
 	@Test
 	public void check_Response()
 	{
-		ExtentTest tst = ex.createTest("GET", "Checking validation for GET Request");
+		ExtentTest tst = ex.createTest("GET_CASE1_RESPONSE", "Checking validation for GET Request");
 
 		logg.info(" Checking validation for GET Request");
 		String response_body=response.prettyPrint();
 		logg.info("Response_Body----"+response_body);
-		Assert.assertTrue(response_body!=null);
 		tst.log(Status.INFO, "Response Body for GET Request");
+		Assert.assertTrue(response_body!=null);
+		if(response_body!=null)
+		{
+
+			tst.log(Status.PASS, "Test Passed");
+
+		}
+		else
+		{
+			tst.log(Status.FAIL, "Test failed");
+	
+		
+		}
+	
+		
 	}
 	
 	
@@ -49,13 +63,24 @@ public class TC001_GETAll_Data extends Base_Class  {
 	@Test
 	public void check_statusCode()
 	{
-		ExtentTest tst = ex.createTest("GET", "Checking validation for GET Request");
+		ExtentTest tst = ex.createTest("GET_CASE1_STATUS", "Checking validation for GET Request");
 
 		int code=response.getStatusCode();
 		logg.info("Status_Code----"+code);
-
-		Assert.assertEquals(code, 200);
 		tst.log(Status.INFO, "Status code for GET Request");
+		Assert.assertEquals(code, 200);
+		if(code==200)
+		{
+			tst.log(Status.PASS, "Test Passed");
+
+		}
+		else
+		{
+			tst.log(Status.FAIL, "Test failed");
+	
+		}
+
+		
 	}
 
 	@AfterClass

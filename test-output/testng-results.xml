@@ -1,29 +1,191 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="18" total="34" passed="16">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="3006" started-at="2019-10-31T13:30:16Z" finished-at="2019-10-31T13:30:19Z">
+  <suite name="Suite" duration-ms="26174" started-at="2019-11-01T09:23:24Z" finished-at="2019-11-01T09:23:50Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="3006" started-at="2019-10-31T13:30:16Z" finished-at="2019-10-31T13:30:19Z">
-      <class name="com.wunderlist.TestCases.TC010_PUT2">
-        <test-method status="PASS" signature="reportSetUp()[pri:0, instance:com.wunderlist.TestCases.TC010_PUT2@5f2108b5]" name="reportSetUp" is-config="true" duration-ms="80" started-at="2019-10-31T19:00:16Z" finished-at="2019-10-31T19:00:16Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- reportSetUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.wunderlist.TestCases.TC010_PUT2@5f2108b5]" name="setUp" is-config="true" duration-ms="39" started-at="2019-10-31T19:00:16Z" finished-at="2019-10-31T19:00:16Z">
+    <test name="Test" duration-ms="26174" started-at="2019-11-01T09:23:24Z" finished-at="2019-11-01T09:23:50Z">
+      <class name="com.wunderlist.TestCases.TC007_PATCH1">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.wunderlist.TestCases.TC007_PATCH1@25bbe1b6]" name="setUp" is-config="true" duration-ms="4" started-at="2019-11-01T14:53:39Z" finished-at="2019-11-01T14:53:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="put()[pri:0, instance:com.wunderlist.TestCases.TC010_PUT2@5f2108b5]" name="put" is-config="true" duration-ms="560" started-at="2019-10-31T19:00:16Z" finished-at="2019-10-31T19:00:16Z">
+        <test-method status="PASS" signature="patch()[pri:0, instance:com.wunderlist.TestCases.TC007_PATCH1@25bbe1b6]" name="patch" is-config="true" duration-ms="2" started-at="2019-11-01T14:53:39Z" finished-at="2019-11-01T14:53:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- patch -->
+        <test-method status="PASS" signature="Check_Status()[pri:0, instance:com.wunderlist.TestCases.TC007_PATCH1@25bbe1b6]" name="Check_Status" duration-ms="3" started-at="2019-11-01T14:53:39Z" finished-at="2019-11-01T14:53:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Check_Status -->
+        <test-method status="PASS" signature="patch_1()[pri:0, instance:com.wunderlist.TestCases.TC007_PATCH1@25bbe1b6]" name="patch_1" duration-ms="1274" started-at="2019-11-01T14:53:39Z" finished-at="2019-11-01T14:53:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- patch_1 -->
+      </class> <!-- com.wunderlist.TestCases.TC007_PATCH1 -->
+      <class name="com.wunderlist.TestCases.TC001_GETAll_Data">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.wunderlist.TestCases.TC001_GETAll_Data@1ed4004b]" name="setUp" is-config="true" duration-ms="2" started-at="2019-11-01T14:53:32Z" finished-at="2019-11-01T14:53:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="get_First()[pri:0, instance:com.wunderlist.TestCases.TC001_GETAll_Data@1ed4004b]" name="get_First" is-config="true" duration-ms="3226" started-at="2019-11-01T14:53:32Z" finished-at="2019-11-01T14:53:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_First -->
+        <test-method status="PASS" signature="check_Response()[pri:0, instance:com.wunderlist.TestCases.TC001_GETAll_Data@1ed4004b]" name="check_Response" duration-ms="27" started-at="2019-11-01T14:53:35Z" finished-at="2019-11-01T14:53:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_Response -->
+        <test-method status="PASS" signature="check_statusCode()[pri:0, instance:com.wunderlist.TestCases.TC001_GETAll_Data@1ed4004b]" name="check_statusCode" duration-ms="2" started-at="2019-11-01T14:53:35Z" finished-at="2019-11-01T14:53:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_statusCode -->
+        <test-method status="PASS" signature="At_End()[pri:0, instance:com.wunderlist.TestCases.TC001_GETAll_Data@1ed4004b]" name="At_End" is-config="true" duration-ms="0" started-at="2019-11-01T14:53:35Z" finished-at="2019-11-01T14:53:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- At_End -->
+      </class> <!-- com.wunderlist.TestCases.TC001_GETAll_Data -->
+      <class name="com.wunderlist.TestCases.TC009_PUT1">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.wunderlist.TestCases.TC009_PUT1@69ea3742]" name="setUp" is-config="true" duration-ms="5" started-at="2019-11-01T14:53:42Z" finished-at="2019-11-01T14:53:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="put()[pri:0, instance:com.wunderlist.TestCases.TC009_PUT1@69ea3742]" name="put" is-config="true" duration-ms="3" started-at="2019-11-01T14:53:42Z" finished-at="2019-11-01T14:53:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- put -->
-        <test-method status="PASS" signature="put_Data()[pri:0, instance:com.wunderlist.TestCases.TC010_PUT2@5f2108b5]" name="put_Data" duration-ms="2390" started-at="2019-10-31T19:00:16Z" finished-at="2019-10-31T19:00:19Z">
+        <test-method status="PASS" signature="check_status()[pri:0, instance:com.wunderlist.TestCases.TC009_PUT1@69ea3742]" name="check_status" duration-ms="1" started-at="2019-11-01T14:53:42Z" finished-at="2019-11-01T14:53:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_status -->
+        <test-method status="PASS" signature="put_Data()[pri:0, instance:com.wunderlist.TestCases.TC009_PUT1@69ea3742]" name="put_Data" duration-ms="1277" started-at="2019-11-01T14:53:42Z" finished-at="2019-11-01T14:53:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- put_Data -->
+      </class> <!-- com.wunderlist.TestCases.TC009_PUT1 -->
+      <class name="com.wunderlist.TestCases.TC002_GETAny_Data">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.wunderlist.TestCases.TC002_GETAny_Data@ff5b51f]" name="setUp" is-config="true" duration-ms="6" started-at="2019-11-01T14:53:35Z" finished-at="2019-11-01T14:53:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="get()[pri:0, instance:com.wunderlist.TestCases.TC002_GETAny_Data@ff5b51f]" name="get" is-config="true" duration-ms="4131" started-at="2019-11-01T14:53:35Z" finished-at="2019-11-01T14:53:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+        <test-method status="PASS" signature="check_Response()[pri:0, instance:com.wunderlist.TestCases.TC002_GETAny_Data@ff5b51f]" name="check_Response" duration-ms="6" started-at="2019-11-01T14:53:39Z" finished-at="2019-11-01T14:53:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_Response -->
+        <test-method status="PASS" signature="check_statusCode()[pri:0, instance:com.wunderlist.TestCases.TC002_GETAny_Data@ff5b51f]" name="check_statusCode" duration-ms="4" started-at="2019-11-01T14:53:39Z" finished-at="2019-11-01T14:53:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_statusCode -->
+        <test-method status="PASS" signature="AtEnd()[pri:0, instance:com.wunderlist.TestCases.TC002_GETAny_Data@ff5b51f]" name="AtEnd" is-config="true" duration-ms="0" started-at="2019-11-01T14:53:39Z" finished-at="2019-11-01T14:53:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AtEnd -->
+      </class> <!-- com.wunderlist.TestCases.TC002_GETAny_Data -->
+      <class name="com.wunderlist.TestCases.TC004_POST2_Data">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.wunderlist.TestCases.TC004_POST2_Data@4566e5bd]" name="setUp" is-config="true" duration-ms="3" started-at="2019-11-01T14:53:27Z" finished-at="2019-11-01T14:53:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="post2()[pri:0, instance:com.wunderlist.TestCases.TC004_POST2_Data@4566e5bd]" name="post2" is-config="true" duration-ms="4189" started-at="2019-11-01T14:53:27Z" finished-at="2019-11-01T14:53:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post2 -->
+        <test-method status="PASS" signature="checkPOST_operation()[pri:0, instance:com.wunderlist.TestCases.TC004_POST2_Data@4566e5bd]" name="checkPOST_operation" duration-ms="1165" started-at="2019-11-01T14:53:31Z" finished-at="2019-11-01T14:53:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPOST_operation -->
+      </class> <!-- com.wunderlist.TestCases.TC004_POST2_Data -->
+      <class name="com.wunderlist.TestCases.TC006_Delete2_Data">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.wunderlist.TestCases.TC006_Delete2_Data@73846619]" name="setUp" is-config="true" duration-ms="3" started-at="2019-11-01T14:53:47Z" finished-at="2019-11-01T14:53:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="put()[pri:0, instance:com.wunderlist.TestCases.TC006_Delete2_Data@73846619]" name="put" is-config="true" duration-ms="1" started-at="2019-11-01T14:53:47Z" finished-at="2019-11-01T14:53:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- put -->
+        <test-method status="PASS" signature="Delete_1()[pri:0, instance:com.wunderlist.TestCases.TC006_Delete2_Data@73846619]" name="Delete_1" duration-ms="2662" started-at="2019-11-01T14:53:47Z" finished-at="2019-11-01T14:53:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Delete_1 -->
+      </class> <!-- com.wunderlist.TestCases.TC006_Delete2_Data -->
+      <class name="com.wunderlist.TestCases.TC003_POST_Data">
+        <test-method status="PASS" signature="reportSetUp()[pri:0, instance:com.wunderlist.TestCases.TC003_POST_Data@56ef9176]" name="reportSetUp" is-config="true" duration-ms="130" started-at="2019-11-01T14:53:24Z" finished-at="2019-11-01T14:53:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportSetUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.wunderlist.TestCases.TC003_POST_Data@56ef9176]" name="setUp" is-config="true" duration-ms="19" started-at="2019-11-01T14:53:24Z" finished-at="2019-11-01T14:53:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="post1()[pri:0, instance:com.wunderlist.TestCases.TC003_POST_Data@56ef9176]" name="post1" is-config="true" duration-ms="465" started-at="2019-11-01T14:53:24Z" finished-at="2019-11-01T14:53:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post1 -->
+        <test-method status="PASS" signature="checkPOST_operation()[pri:0, instance:com.wunderlist.TestCases.TC003_POST_Data@56ef9176]" name="checkPOST_operation" duration-ms="2387" started-at="2019-11-01T14:53:24Z" finished-at="2019-11-01T14:53:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPOST_operation -->
+        <test-method status="PASS" signature="reportTeardown()[pri:0, instance:com.wunderlist.TestCases.TC003_POST_Data@56ef9176]" name="reportTeardown" is-config="true" duration-ms="247" started-at="2019-11-01T14:53:50Z" finished-at="2019-11-01T14:53:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportTeardown -->
+      </class> <!-- com.wunderlist.TestCases.TC003_POST_Data -->
+      <class name="com.wunderlist.TestCases.TC005_Delete1_Data">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.wunderlist.TestCases.TC005_Delete1_Data@3159c4b8]" name="setUp" is-config="true" duration-ms="4" started-at="2019-11-01T14:53:44Z" finished-at="2019-11-01T14:53:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="put()[pri:0, instance:com.wunderlist.TestCases.TC005_Delete1_Data@3159c4b8]" name="put" is-config="true" duration-ms="3" started-at="2019-11-01T14:53:44Z" finished-at="2019-11-01T14:53:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- put -->
+        <test-method status="PASS" signature="Delete_1()[pri:0, instance:com.wunderlist.TestCases.TC005_Delete1_Data@3159c4b8]" name="Delete_1" duration-ms="2867" started-at="2019-11-01T14:53:44Z" finished-at="2019-11-01T14:53:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Delete_1 -->
+      </class> <!-- com.wunderlist.TestCases.TC005_Delete1_Data -->
+      <class name="com.wunderlist.TestCases.TC008_PATCH2">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.wunderlist.TestCases.TC008_PATCH2@5702b3b1]" name="setUp" is-config="true" duration-ms="2" started-at="2019-11-01T14:53:41Z" finished-at="2019-11-01T14:53:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="patch()[pri:0, instance:com.wunderlist.TestCases.TC008_PATCH2@5702b3b1]" name="patch" is-config="true" duration-ms="1" started-at="2019-11-01T14:53:41Z" finished-at="2019-11-01T14:53:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- patch -->
+        <test-method status="PASS" signature="check_status()[pri:0, instance:com.wunderlist.TestCases.TC008_PATCH2@5702b3b1]" name="check_status" duration-ms="2" started-at="2019-11-01T14:53:41Z" finished-at="2019-11-01T14:53:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_status -->
+        <test-method status="PASS" signature="patch_1()[pri:0, instance:com.wunderlist.TestCases.TC008_PATCH2@5702b3b1]" name="patch_1" duration-ms="1162" started-at="2019-11-01T14:53:41Z" finished-at="2019-11-01T14:53:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- patch_1 -->
+      </class> <!-- com.wunderlist.TestCases.TC008_PATCH2 -->
+      <class name="com.wunderlist.TestCases.TC010_PUT2">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.wunderlist.TestCases.TC010_PUT2@4b952a2d]" name="setUp" is-config="true" duration-ms="2" started-at="2019-11-01T14:53:43Z" finished-at="2019-11-01T14:53:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="put()[pri:0, instance:com.wunderlist.TestCases.TC010_PUT2@4b952a2d]" name="put" is-config="true" duration-ms="3" started-at="2019-11-01T14:53:43Z" finished-at="2019-11-01T14:53:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- put -->
+        <test-method status="PASS" signature="check_status()[pri:0, instance:com.wunderlist.TestCases.TC010_PUT2@4b952a2d]" name="check_status" duration-ms="3" started-at="2019-11-01T14:53:43Z" finished-at="2019-11-01T14:53:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_status -->
+        <test-method status="PASS" signature="put_Data()[pri:0, instance:com.wunderlist.TestCases.TC010_PUT2@4b952a2d]" name="put_Data" duration-ms="1216" started-at="2019-11-01T14:53:43Z" finished-at="2019-11-01T14:53:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- put_Data -->
       </class> <!-- com.wunderlist.TestCases.TC010_PUT2 -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

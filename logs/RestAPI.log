@@ -279,3 +279,7060 @@
 2019-10-31 18:56:21 INFO  RestAPI:26 -  PATCH Request 
 2019-10-31 18:59:51 INFO  RestAPI:26 -  PUT Request 
 2019-10-31 19:00:16 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 09:55:00 INFO  RestAPI:19 - Delete Request
+2019-11-01 09:55:08 INFO  RestAPI:47 - Delete Operation Started
+2019-11-01 09:55:08 INFO  RestAPI:50 - Status_Code------405
+2019-11-01 10:41:04 INFO  RestAPI:26 - POST Request
+2019-11-01 10:41:49 INFO  RestAPI:21 - Delete Request
+2019-11-01 10:41:55 INFO  RestAPI:49 - Delete Operation Started
+2019-11-01 10:41:56 INFO  RestAPI:52 - Status_Code------405
+2019-11-01 10:42:22 INFO  RestAPI:21 - Delete Request
+2019-11-01 10:42:28 INFO  RestAPI:51 - Delete Operation Started
+2019-11-01 10:42:29 INFO  RestAPI:54 - Status_Code------405
+2019-11-01 10:42:43 INFO  RestAPI:21 - Delete Request
+2019-11-01 10:42:50 INFO  RestAPI:52 - Delete Operation Started
+2019-11-01 10:42:50 INFO  RestAPI:55 - Status_Code------405
+2019-11-01 10:44:34 INFO  RestAPI:21 - Delete Request
+2019-11-01 10:44:41 INFO  RestAPI:52 - Delete Operation Started
+2019-11-01 10:44:41 INFO  RestAPI:55 - Status_Code------405
+2019-11-01 10:45:21 INFO  RestAPI:21 - Delete Request
+2019-11-01 10:45:28 INFO  RestAPI:52 - Delete Operation Started
+2019-11-01 10:45:29 INFO  RestAPI:55 - Status_Code------405
+2019-11-01 10:58:19 INFO  RestAPI:23 - Delete Request
+2019-11-01 10:58:25 INFO  RestAPI:69 - Delete Operation Started
+2019-11-01 10:58:26 INFO  RestAPI:72 - Status_Code------200
+2019-11-01 11:00:07 INFO  RestAPI:23 - Delete Request
+2019-11-01 11:01:11 INFO  RestAPI:23 - Delete Request
+2019-11-01 11:59:40 INFO  RestAPI:26 - POST Request
+2019-11-01 11:59:42 INFO  RestAPI:29 - POST Request
+2019-11-01 11:59:47 INFO  RestAPI:23 -  First GET Request
+2019-11-01 11:59:50 INFO  RestAPI:40 -  Checking validation for GET Request
+2019-11-01 11:59:50 INFO  RestAPI:42 - Response_Body----[
+    {
+        "id": 408409255,
+        "title": "inbox",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "inbox",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-23T09:30:28.945Z",
+        "type": "list"
+    },
+    {
+        "id": 409061487,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:01:44.740Z",
+        "type": "list"
+    },
+    {
+        "id": 409062633,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:19:20.619Z",
+        "type": "list"
+    },
+    {
+        "id": 409062810,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:21:53.312Z",
+        "type": "list"
+    },
+    {
+        "id": 409064517,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:44:35.169Z",
+        "type": "list"
+    },
+    {
+        "id": 409064536,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 4,
+        "created_at": "2019-10-31T12:44:56.763Z",
+        "type": "list"
+    },
+    {
+        "id": 409064815,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:48:35.676Z",
+        "type": "list"
+    },
+    {
+        "id": 409066859,
+        "title": "SANJEEV",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 4,
+        "created_at": "2019-10-31T13:17:05.627Z",
+        "type": "list"
+    },
+    {
+        "id": 409116086,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:38.919Z",
+        "type": "list"
+    },
+    {
+        "id": 409116096,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:43.892Z",
+        "type": "list"
+    }
+]
+2019-11-01 11:59:50 INFO  RestAPI:58 - Status_Code----200
+2019-11-01 11:59:50 INFO  RestAPI:68 - Finish
+2019-11-01 11:59:50 INFO  RestAPI:20 -  GET Request 
+2019-11-01 11:59:54 INFO  RestAPI:37 -  Checking Response Body for GET Request By ID
+2019-11-01 11:59:54 INFO  RestAPI:39 - Response_Body----{
+    "id": 408409255,
+    "title": "inbox",
+    "owner_type": "user",
+    "owner_id": 96532794,
+    "list_type": "inbox",
+    "public": false,
+    "revision": 1,
+    "created_at": "2019-10-23T09:30:28.945Z",
+    "type": "list"
+}
+2019-11-01 11:59:54 INFO  RestAPI:52 - Status_Code------200
+2019-11-01 11:59:54 INFO  RestAPI:63 -  Finish
+2019-11-01 11:59:54 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 11:59:55 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 11:59:56 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 11:59:57 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 11:59:58 INFO  RestAPI:25 - Delete Request
+2019-11-01 11:59:59 INFO  RestAPI:21 - Delete Request
+2019-11-01 12:00:04 INFO  RestAPI:54 - Delete Operation Started
+2019-11-01 12:00:04 INFO  RestAPI:57 - Status_Code------405
+2019-11-01 12:07:55 INFO  RestAPI:26 - POST Request
+2019-11-01 12:07:58 INFO  RestAPI:29 - POST Request
+2019-11-01 12:08:03 INFO  RestAPI:23 -  First GET Request
+2019-11-01 12:08:06 INFO  RestAPI:40 -  Checking validation for GET Request
+2019-11-01 12:08:06 INFO  RestAPI:42 - Response_Body----[
+    {
+        "id": 408409255,
+        "title": "inbox",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "inbox",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-23T09:30:28.945Z",
+        "type": "list"
+    },
+    {
+        "id": 409061487,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:01:44.740Z",
+        "type": "list"
+    },
+    {
+        "id": 409062633,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:19:20.619Z",
+        "type": "list"
+    },
+    {
+        "id": 409062810,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:21:53.312Z",
+        "type": "list"
+    },
+    {
+        "id": 409064517,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:44:35.169Z",
+        "type": "list"
+    },
+    {
+        "id": 409064536,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 5,
+        "created_at": "2019-10-31T12:44:56.763Z",
+        "type": "list"
+    },
+    {
+        "id": 409064815,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:48:35.676Z",
+        "type": "list"
+    },
+    {
+        "id": 409066859,
+        "title": "SANJEEV",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 5,
+        "created_at": "2019-10-31T13:17:05.627Z",
+        "type": "list"
+    },
+    {
+        "id": 409116086,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:38.919Z",
+        "type": "list"
+    },
+    {
+        "id": 409116096,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:43.892Z",
+        "type": "list"
+    },
+    {
+        "id": 409116433,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:54.566Z",
+        "type": "list"
+    },
+    {
+        "id": 409116437,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:59.943Z",
+        "type": "list"
+    }
+]
+2019-11-01 12:08:06 INFO  RestAPI:58 - Status_Code----200
+2019-11-01 12:08:06 INFO  RestAPI:68 - Finish
+2019-11-01 12:08:06 INFO  RestAPI:20 -  GET Request 
+2019-11-01 12:08:10 INFO  RestAPI:37 -  Checking Response Body for GET Request By ID
+2019-11-01 12:08:10 INFO  RestAPI:39 - Response_Body----{
+    "id": 408409255,
+    "title": "inbox",
+    "owner_type": "user",
+    "owner_id": 96532794,
+    "list_type": "inbox",
+    "public": false,
+    "revision": 1,
+    "created_at": "2019-10-23T09:30:28.945Z",
+    "type": "list"
+}
+2019-11-01 12:08:10 INFO  RestAPI:52 - Status_Code------200
+2019-11-01 12:08:10 INFO  RestAPI:63 -  Finish
+2019-11-01 12:08:10 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 12:08:11 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 12:08:12 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 12:08:13 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 12:10:12 INFO  RestAPI:26 - POST Request
+2019-11-01 12:10:15 INFO  RestAPI:29 - POST Request
+2019-11-01 12:10:20 INFO  RestAPI:23 -  First GET Request
+2019-11-01 12:10:23 INFO  RestAPI:40 -  Checking validation for GET Request
+2019-11-01 12:10:23 INFO  RestAPI:42 - Response_Body----[
+    {
+        "id": 408409255,
+        "title": "inbox",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "inbox",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-23T09:30:28.945Z",
+        "type": "list"
+    },
+    {
+        "id": 409061487,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:01:44.740Z",
+        "type": "list"
+    },
+    {
+        "id": 409062633,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:19:20.619Z",
+        "type": "list"
+    },
+    {
+        "id": 409062810,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:21:53.312Z",
+        "type": "list"
+    },
+    {
+        "id": 409064517,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:44:35.169Z",
+        "type": "list"
+    },
+    {
+        "id": 409064536,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 5,
+        "created_at": "2019-10-31T12:44:56.763Z",
+        "type": "list"
+    },
+    {
+        "id": 409064815,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:48:35.676Z",
+        "type": "list"
+    },
+    {
+        "id": 409066859,
+        "title": "SANJEEV",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 5,
+        "created_at": "2019-10-31T13:17:05.627Z",
+        "type": "list"
+    },
+    {
+        "id": 409116086,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:38.919Z",
+        "type": "list"
+    },
+    {
+        "id": 409116096,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:43.892Z",
+        "type": "list"
+    },
+    {
+        "id": 409116433,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:54.566Z",
+        "type": "list"
+    },
+    {
+        "id": 409116437,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:59.943Z",
+        "type": "list"
+    },
+    {
+        "id": 409116525,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:12.109Z",
+        "type": "list"
+    },
+    {
+        "id": 409116530,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:17.216Z",
+        "type": "list"
+    }
+]
+2019-11-01 12:10:23 INFO  RestAPI:58 - Status_Code----200
+2019-11-01 12:10:23 INFO  RestAPI:68 - Finish
+2019-11-01 12:10:23 INFO  RestAPI:20 -  GET Request 
+2019-11-01 12:10:27 INFO  RestAPI:37 -  Checking Response Body for GET Request By ID
+2019-11-01 12:10:27 INFO  RestAPI:39 - Response_Body----{
+    "id": 408409255,
+    "title": "inbox",
+    "owner_type": "user",
+    "owner_id": 96532794,
+    "list_type": "inbox",
+    "public": false,
+    "revision": 1,
+    "created_at": "2019-10-23T09:30:28.945Z",
+    "type": "list"
+}
+2019-11-01 12:10:27 INFO  RestAPI:52 - Status_Code------200
+2019-11-01 12:10:27 INFO  RestAPI:63 -  Finish
+2019-11-01 12:12:00 INFO  RestAPI:26 - POST Request
+2019-11-01 12:12:03 INFO  RestAPI:29 - POST Request
+2019-11-01 12:12:08 INFO  RestAPI:23 -  First GET Request
+2019-11-01 12:12:11 INFO  RestAPI:40 -  Checking validation for GET Request
+2019-11-01 12:12:11 INFO  RestAPI:42 - Response_Body----[
+    {
+        "id": 408409255,
+        "title": "inbox",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "inbox",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-23T09:30:28.945Z",
+        "type": "list"
+    },
+    {
+        "id": 409061487,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:01:44.740Z",
+        "type": "list"
+    },
+    {
+        "id": 409062633,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:19:20.619Z",
+        "type": "list"
+    },
+    {
+        "id": 409062810,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:21:53.312Z",
+        "type": "list"
+    },
+    {
+        "id": 409064517,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:44:35.169Z",
+        "type": "list"
+    },
+    {
+        "id": 409064536,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 5,
+        "created_at": "2019-10-31T12:44:56.763Z",
+        "type": "list"
+    },
+    {
+        "id": 409064815,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:48:35.676Z",
+        "type": "list"
+    },
+    {
+        "id": 409066859,
+        "title": "SANJEEV",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 5,
+        "created_at": "2019-10-31T13:17:05.627Z",
+        "type": "list"
+    },
+    {
+        "id": 409116086,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:38.919Z",
+        "type": "list"
+    },
+    {
+        "id": 409116096,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:43.892Z",
+        "type": "list"
+    },
+    {
+        "id": 409116433,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:54.566Z",
+        "type": "list"
+    },
+    {
+        "id": 409116437,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:59.943Z",
+        "type": "list"
+    },
+    {
+        "id": 409116525,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:12.109Z",
+        "type": "list"
+    },
+    {
+        "id": 409116530,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:17.216Z",
+        "type": "list"
+    },
+    {
+        "id": 409116597,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:41:59.592Z",
+        "type": "list"
+    },
+    {
+        "id": 409116600,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:42:04.920Z",
+        "type": "list"
+    }
+]
+2019-11-01 12:12:11 INFO  RestAPI:58 - Status_Code----200
+2019-11-01 12:12:11 INFO  RestAPI:68 - Finish
+2019-11-01 12:12:11 INFO  RestAPI:20 -  GET Request 
+2019-11-01 12:12:15 INFO  RestAPI:37 -  Checking Response Body for GET Request By ID
+2019-11-01 12:12:15 INFO  RestAPI:39 - Response_Body----{
+    "id": 408409255,
+    "title": "inbox",
+    "owner_type": "user",
+    "owner_id": 96532794,
+    "list_type": "inbox",
+    "public": false,
+    "revision": 1,
+    "created_at": "2019-10-23T09:30:28.945Z",
+    "type": "list"
+}
+2019-11-01 12:12:15 INFO  RestAPI:52 - Status_Code------200
+2019-11-01 12:12:15 INFO  RestAPI:63 -  Finish
+2019-11-01 12:12:58 INFO  RestAPI:23 -  First GET Request
+2019-11-01 12:13:02 INFO  RestAPI:40 -  Checking validation for GET Request
+2019-11-01 12:13:02 INFO  RestAPI:42 - Response_Body----[
+    {
+        "id": 408409255,
+        "title": "inbox",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "inbox",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-23T09:30:28.945Z",
+        "type": "list"
+    },
+    {
+        "id": 409061487,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:01:44.740Z",
+        "type": "list"
+    },
+    {
+        "id": 409062633,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:19:20.619Z",
+        "type": "list"
+    },
+    {
+        "id": 409062810,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:21:53.312Z",
+        "type": "list"
+    },
+    {
+        "id": 409064517,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:44:35.169Z",
+        "type": "list"
+    },
+    {
+        "id": 409064536,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 5,
+        "created_at": "2019-10-31T12:44:56.763Z",
+        "type": "list"
+    },
+    {
+        "id": 409064815,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:48:35.676Z",
+        "type": "list"
+    },
+    {
+        "id": 409066859,
+        "title": "SANJEEV",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 5,
+        "created_at": "2019-10-31T13:17:05.627Z",
+        "type": "list"
+    },
+    {
+        "id": 409116086,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:38.919Z",
+        "type": "list"
+    },
+    {
+        "id": 409116096,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:43.892Z",
+        "type": "list"
+    },
+    {
+        "id": 409116433,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:54.566Z",
+        "type": "list"
+    },
+    {
+        "id": 409116437,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:59.943Z",
+        "type": "list"
+    },
+    {
+        "id": 409116525,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:12.109Z",
+        "type": "list"
+    },
+    {
+        "id": 409116530,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:17.216Z",
+        "type": "list"
+    },
+    {
+        "id": 409116597,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:41:59.592Z",
+        "type": "list"
+    },
+    {
+        "id": 409116600,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:42:04.920Z",
+        "type": "list"
+    }
+]
+2019-11-01 12:13:02 INFO  RestAPI:58 - Status_Code----200
+2019-11-01 12:13:02 INFO  RestAPI:68 - Finish
+2019-11-01 12:14:41 INFO  RestAPI:23 -  First GET Request
+2019-11-01 12:14:46 INFO  RestAPI:40 -  Checking validation for GET Request
+2019-11-01 12:14:46 INFO  RestAPI:42 - Response_Body----[
+    {
+        "id": 408409255,
+        "title": "inbox",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "inbox",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-23T09:30:28.945Z",
+        "type": "list"
+    },
+    {
+        "id": 409061487,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:01:44.740Z",
+        "type": "list"
+    },
+    {
+        "id": 409062633,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:19:20.619Z",
+        "type": "list"
+    },
+    {
+        "id": 409062810,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:21:53.312Z",
+        "type": "list"
+    },
+    {
+        "id": 409064517,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:44:35.169Z",
+        "type": "list"
+    },
+    {
+        "id": 409064536,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 5,
+        "created_at": "2019-10-31T12:44:56.763Z",
+        "type": "list"
+    },
+    {
+        "id": 409064815,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:48:35.676Z",
+        "type": "list"
+    },
+    {
+        "id": 409066859,
+        "title": "SANJEEV",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 5,
+        "created_at": "2019-10-31T13:17:05.627Z",
+        "type": "list"
+    },
+    {
+        "id": 409116086,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:38.919Z",
+        "type": "list"
+    },
+    {
+        "id": 409116096,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:43.892Z",
+        "type": "list"
+    },
+    {
+        "id": 409116433,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:54.566Z",
+        "type": "list"
+    },
+    {
+        "id": 409116437,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:59.943Z",
+        "type": "list"
+    },
+    {
+        "id": 409116525,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:12.109Z",
+        "type": "list"
+    },
+    {
+        "id": 409116530,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:17.216Z",
+        "type": "list"
+    },
+    {
+        "id": 409116597,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:41:59.592Z",
+        "type": "list"
+    },
+    {
+        "id": 409116600,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:42:04.920Z",
+        "type": "list"
+    }
+]
+2019-11-01 12:14:46 INFO  RestAPI:58 - Status_Code----200
+2019-11-01 12:14:46 INFO  RestAPI:68 - Finish
+2019-11-01 12:15:18 INFO  RestAPI:26 - POST Request
+2019-11-01 12:15:21 INFO  RestAPI:29 - POST Request
+2019-11-01 12:15:26 INFO  RestAPI:23 -  First GET Request
+2019-11-01 12:15:29 INFO  RestAPI:40 -  Checking validation for GET Request
+2019-11-01 12:15:29 INFO  RestAPI:42 - Response_Body----[
+    {
+        "id": 408409255,
+        "title": "inbox",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "inbox",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-23T09:30:28.945Z",
+        "type": "list"
+    },
+    {
+        "id": 409061487,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:01:44.740Z",
+        "type": "list"
+    },
+    {
+        "id": 409062633,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:19:20.619Z",
+        "type": "list"
+    },
+    {
+        "id": 409062810,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:21:53.312Z",
+        "type": "list"
+    },
+    {
+        "id": 409064517,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:44:35.169Z",
+        "type": "list"
+    },
+    {
+        "id": 409064536,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 5,
+        "created_at": "2019-10-31T12:44:56.763Z",
+        "type": "list"
+    },
+    {
+        "id": 409064815,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:48:35.676Z",
+        "type": "list"
+    },
+    {
+        "id": 409066859,
+        "title": "SANJEEV",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 5,
+        "created_at": "2019-10-31T13:17:05.627Z",
+        "type": "list"
+    },
+    {
+        "id": 409116086,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:38.919Z",
+        "type": "list"
+    },
+    {
+        "id": 409116096,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:43.892Z",
+        "type": "list"
+    },
+    {
+        "id": 409116433,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:54.566Z",
+        "type": "list"
+    },
+    {
+        "id": 409116437,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:59.943Z",
+        "type": "list"
+    },
+    {
+        "id": 409116525,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:12.109Z",
+        "type": "list"
+    },
+    {
+        "id": 409116530,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:17.216Z",
+        "type": "list"
+    },
+    {
+        "id": 409116597,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:41:59.592Z",
+        "type": "list"
+    },
+    {
+        "id": 409116600,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:42:04.920Z",
+        "type": "list"
+    },
+    {
+        "id": 409116731,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:45:17.797Z",
+        "type": "list"
+    },
+    {
+        "id": 409116735,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:45:23.060Z",
+        "type": "list"
+    }
+]
+2019-11-01 12:15:29 INFO  RestAPI:58 - Status_Code----200
+2019-11-01 12:15:29 INFO  RestAPI:68 - Finish
+2019-11-01 12:15:29 INFO  RestAPI:20 -  GET Request 
+2019-11-01 12:15:33 INFO  RestAPI:37 -  Checking Response Body for GET Request By ID
+2019-11-01 12:15:33 INFO  RestAPI:39 - Response_Body----{
+    "id": 408409255,
+    "title": "inbox",
+    "owner_type": "user",
+    "owner_id": 96532794,
+    "list_type": "inbox",
+    "public": false,
+    "revision": 1,
+    "created_at": "2019-10-23T09:30:28.945Z",
+    "type": "list"
+}
+2019-11-01 12:15:33 INFO  RestAPI:52 - Status_Code------200
+2019-11-01 12:15:33 INFO  RestAPI:63 -  Finish
+2019-11-01 12:17:25 INFO  RestAPI:26 - POST Request
+2019-11-01 12:17:27 INFO  RestAPI:29 - POST Request
+2019-11-01 12:17:33 INFO  RestAPI:23 -  First GET Request
+2019-11-01 12:17:36 INFO  RestAPI:40 -  Checking validation for GET Request
+2019-11-01 12:17:36 INFO  RestAPI:42 - Response_Body----[
+    {
+        "id": 408409255,
+        "title": "inbox",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "inbox",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-23T09:30:28.945Z",
+        "type": "list"
+    },
+    {
+        "id": 409061487,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:01:44.740Z",
+        "type": "list"
+    },
+    {
+        "id": 409062633,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:19:20.619Z",
+        "type": "list"
+    },
+    {
+        "id": 409062810,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:21:53.312Z",
+        "type": "list"
+    },
+    {
+        "id": 409064517,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:44:35.169Z",
+        "type": "list"
+    },
+    {
+        "id": 409064536,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 5,
+        "created_at": "2019-10-31T12:44:56.763Z",
+        "type": "list"
+    },
+    {
+        "id": 409064815,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:48:35.676Z",
+        "type": "list"
+    },
+    {
+        "id": 409066859,
+        "title": "SANJEEV",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 5,
+        "created_at": "2019-10-31T13:17:05.627Z",
+        "type": "list"
+    },
+    {
+        "id": 409116086,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:38.919Z",
+        "type": "list"
+    },
+    {
+        "id": 409116096,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:43.892Z",
+        "type": "list"
+    },
+    {
+        "id": 409116433,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:54.566Z",
+        "type": "list"
+    },
+    {
+        "id": 409116437,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:59.943Z",
+        "type": "list"
+    },
+    {
+        "id": 409116525,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:12.109Z",
+        "type": "list"
+    },
+    {
+        "id": 409116530,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:17.216Z",
+        "type": "list"
+    },
+    {
+        "id": 409116597,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:41:59.592Z",
+        "type": "list"
+    },
+    {
+        "id": 409116600,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:42:04.920Z",
+        "type": "list"
+    },
+    {
+        "id": 409116731,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:45:17.797Z",
+        "type": "list"
+    },
+    {
+        "id": 409116735,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:45:23.060Z",
+        "type": "list"
+    },
+    {
+        "id": 409116821,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:47:24.133Z",
+        "type": "list"
+    },
+    {
+        "id": 409116825,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:47:29.581Z",
+        "type": "list"
+    }
+]
+2019-11-01 12:17:36 INFO  RestAPI:58 - Status_Code----200
+2019-11-01 12:17:36 INFO  RestAPI:68 - Finish
+2019-11-01 12:17:36 INFO  RestAPI:20 -  GET Request 
+2019-11-01 12:17:40 INFO  RestAPI:37 -  Checking Response Body for GET Request By ID
+2019-11-01 12:17:40 INFO  RestAPI:39 - Response_Body----{
+    "id": 408409255,
+    "title": "inbox",
+    "owner_type": "user",
+    "owner_id": 96532794,
+    "list_type": "inbox",
+    "public": false,
+    "revision": 1,
+    "created_at": "2019-10-23T09:30:28.945Z",
+    "type": "list"
+}
+2019-11-01 12:17:40 INFO  RestAPI:52 - Status_Code------200
+2019-11-01 12:17:40 INFO  RestAPI:63 -  Finish
+2019-11-01 12:17:40 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 12:17:41 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 12:17:42 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 12:17:43 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 12:30:55 INFO  RestAPI:26 - POST Request
+2019-11-01 12:30:58 INFO  RestAPI:29 - POST Request
+2019-11-01 12:31:03 INFO  RestAPI:23 -  First GET Request
+2019-11-01 12:31:06 INFO  RestAPI:40 -  Checking validation for GET Request
+2019-11-01 12:31:06 INFO  RestAPI:42 - Response_Body----[
+    {
+        "id": 408409255,
+        "title": "inbox",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "inbox",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-23T09:30:28.945Z",
+        "type": "list"
+    },
+    {
+        "id": 409061487,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:01:44.740Z",
+        "type": "list"
+    },
+    {
+        "id": 409062633,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:19:20.619Z",
+        "type": "list"
+    },
+    {
+        "id": 409062810,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:21:53.312Z",
+        "type": "list"
+    },
+    {
+        "id": 409064517,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:44:35.169Z",
+        "type": "list"
+    },
+    {
+        "id": 409064536,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 5,
+        "created_at": "2019-10-31T12:44:56.763Z",
+        "type": "list"
+    },
+    {
+        "id": 409064815,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:48:35.676Z",
+        "type": "list"
+    },
+    {
+        "id": 409066859,
+        "title": "SANJEEV",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 5,
+        "created_at": "2019-10-31T13:17:05.627Z",
+        "type": "list"
+    },
+    {
+        "id": 409116086,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:38.919Z",
+        "type": "list"
+    },
+    {
+        "id": 409116096,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:43.892Z",
+        "type": "list"
+    },
+    {
+        "id": 409116433,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:54.566Z",
+        "type": "list"
+    },
+    {
+        "id": 409116437,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:59.943Z",
+        "type": "list"
+    },
+    {
+        "id": 409116525,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:12.109Z",
+        "type": "list"
+    },
+    {
+        "id": 409116530,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:17.216Z",
+        "type": "list"
+    },
+    {
+        "id": 409116597,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:41:59.592Z",
+        "type": "list"
+    },
+    {
+        "id": 409116600,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:42:04.920Z",
+        "type": "list"
+    },
+    {
+        "id": 409116731,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:45:17.797Z",
+        "type": "list"
+    },
+    {
+        "id": 409116735,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:45:23.060Z",
+        "type": "list"
+    },
+    {
+        "id": 409116821,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:47:24.133Z",
+        "type": "list"
+    },
+    {
+        "id": 409116825,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:47:29.581Z",
+        "type": "list"
+    },
+    {
+        "id": 409117353,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T07:00:54.502Z",
+        "type": "list"
+    },
+    {
+        "id": 409117356,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T07:00:59.550Z",
+        "type": "list"
+    }
+]
+2019-11-01 12:31:06 INFO  RestAPI:57 - Status_Code----200
+2019-11-01 12:31:06 INFO  RestAPI:77 - Finish
+2019-11-01 12:31:06 INFO  RestAPI:20 -  GET Request 
+2019-11-01 12:31:10 INFO  RestAPI:37 -  Checking Response Body for GET Request By ID
+2019-11-01 12:31:10 INFO  RestAPI:39 - Response_Body----{
+    "id": 408409255,
+    "title": "inbox",
+    "owner_type": "user",
+    "owner_id": 96532794,
+    "list_type": "inbox",
+    "public": false,
+    "revision": 1,
+    "created_at": "2019-10-23T09:30:28.945Z",
+    "type": "list"
+}
+2019-11-01 12:31:10 INFO  RestAPI:52 - Status_Code------200
+2019-11-01 12:31:10 INFO  RestAPI:73 -  Finish
+2019-11-01 12:31:10 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 12:31:11 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 12:31:12 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 12:31:13 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 12:45:15 INFO  RestAPI:26 - POST Request
+2019-11-01 12:45:17 INFO  RestAPI:29 - POST Request
+2019-11-01 12:45:22 INFO  RestAPI:23 -  First GET Request
+2019-11-01 12:45:25 INFO  RestAPI:40 -  Checking validation for GET Request
+2019-11-01 12:45:25 INFO  RestAPI:42 - Response_Body----[
+    {
+        "id": 408409255,
+        "title": "inbox",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "inbox",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-23T09:30:28.945Z",
+        "type": "list"
+    },
+    {
+        "id": 409061487,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:01:44.740Z",
+        "type": "list"
+    },
+    {
+        "id": 409062633,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:19:20.619Z",
+        "type": "list"
+    },
+    {
+        "id": 409062810,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:21:53.312Z",
+        "type": "list"
+    },
+    {
+        "id": 409064517,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:44:35.169Z",
+        "type": "list"
+    },
+    {
+        "id": 409064536,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 5,
+        "created_at": "2019-10-31T12:44:56.763Z",
+        "type": "list"
+    },
+    {
+        "id": 409064815,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:48:35.676Z",
+        "type": "list"
+    },
+    {
+        "id": 409066859,
+        "title": "SANJEEV",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 5,
+        "created_at": "2019-10-31T13:17:05.627Z",
+        "type": "list"
+    },
+    {
+        "id": 409116086,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:38.919Z",
+        "type": "list"
+    },
+    {
+        "id": 409116096,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:43.892Z",
+        "type": "list"
+    },
+    {
+        "id": 409116433,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:54.566Z",
+        "type": "list"
+    },
+    {
+        "id": 409116437,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:59.943Z",
+        "type": "list"
+    },
+    {
+        "id": 409116525,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:12.109Z",
+        "type": "list"
+    },
+    {
+        "id": 409116530,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:17.216Z",
+        "type": "list"
+    },
+    {
+        "id": 409116597,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:41:59.592Z",
+        "type": "list"
+    },
+    {
+        "id": 409116600,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:42:04.920Z",
+        "type": "list"
+    },
+    {
+        "id": 409116731,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:45:17.797Z",
+        "type": "list"
+    },
+    {
+        "id": 409116735,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:45:23.060Z",
+        "type": "list"
+    },
+    {
+        "id": 409116821,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:47:24.133Z",
+        "type": "list"
+    },
+    {
+        "id": 409116825,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:47:29.581Z",
+        "type": "list"
+    },
+    {
+        "id": 409117353,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T07:00:54.502Z",
+        "type": "list"
+    },
+    {
+        "id": 409117356,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T07:00:59.550Z",
+        "type": "list"
+    },
+    {
+        "id": 409117975,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T07:15:13.894Z",
+        "type": "list"
+    },
+    {
+        "id": 409117983,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T07:15:19.230Z",
+        "type": "list"
+    }
+]
+2019-11-01 12:45:25 INFO  RestAPI:57 - Status_Code----200
+2019-11-01 12:45:25 INFO  RestAPI:77 - Finish
+2019-11-01 12:45:25 INFO  RestAPI:20 -  GET Request 
+2019-11-01 12:45:29 INFO  RestAPI:37 -  Checking Response Body for GET Request By ID
+2019-11-01 12:45:29 INFO  RestAPI:39 - Response_Body----{
+    "id": 408409255,
+    "title": "inbox",
+    "owner_type": "user",
+    "owner_id": 96532794,
+    "list_type": "inbox",
+    "public": false,
+    "revision": 1,
+    "created_at": "2019-10-23T09:30:28.945Z",
+    "type": "list"
+}
+2019-11-01 12:45:29 INFO  RestAPI:52 - Status_Code------200
+2019-11-01 12:45:29 INFO  RestAPI:73 -  Finish
+2019-11-01 12:45:29 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 12:45:30 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 12:45:31 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 12:45:33 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 12:53:44 INFO  RestAPI:23 -  First GET Request
+2019-11-01 12:53:48 INFO  RestAPI:40 -  Checking validation for GET Request
+2019-11-01 12:53:48 INFO  RestAPI:42 - Response_Body----[
+    {
+        "id": 408409255,
+        "title": "inbox",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "inbox",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-23T09:30:28.945Z",
+        "type": "list"
+    },
+    {
+        "id": 409061487,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:01:44.740Z",
+        "type": "list"
+    },
+    {
+        "id": 409062633,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:19:20.619Z",
+        "type": "list"
+    },
+    {
+        "id": 409062810,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:21:53.312Z",
+        "type": "list"
+    },
+    {
+        "id": 409064517,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:44:35.169Z",
+        "type": "list"
+    },
+    {
+        "id": 409064536,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 5,
+        "created_at": "2019-10-31T12:44:56.763Z",
+        "type": "list"
+    },
+    {
+        "id": 409064815,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:48:35.676Z",
+        "type": "list"
+    },
+    {
+        "id": 409066859,
+        "title": "SANJEEV",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 5,
+        "created_at": "2019-10-31T13:17:05.627Z",
+        "type": "list"
+    },
+    {
+        "id": 409116086,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:38.919Z",
+        "type": "list"
+    },
+    {
+        "id": 409116096,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:43.892Z",
+        "type": "list"
+    },
+    {
+        "id": 409116433,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:54.566Z",
+        "type": "list"
+    },
+    {
+        "id": 409116437,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:59.943Z",
+        "type": "list"
+    },
+    {
+        "id": 409116525,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:12.109Z",
+        "type": "list"
+    },
+    {
+        "id": 409116530,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:17.216Z",
+        "type": "list"
+    },
+    {
+        "id": 409116597,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:41:59.592Z",
+        "type": "list"
+    },
+    {
+        "id": 409116600,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:42:04.920Z",
+        "type": "list"
+    },
+    {
+        "id": 409116731,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:45:17.797Z",
+        "type": "list"
+    },
+    {
+        "id": 409116735,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:45:23.060Z",
+        "type": "list"
+    },
+    {
+        "id": 409116821,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:47:24.133Z",
+        "type": "list"
+    },
+    {
+        "id": 409116825,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:47:29.581Z",
+        "type": "list"
+    },
+    {
+        "id": 409117353,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T07:00:54.502Z",
+        "type": "list"
+    },
+    {
+        "id": 409117356,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T07:00:59.550Z",
+        "type": "list"
+    },
+    {
+        "id": 409117975,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T07:15:13.894Z",
+        "type": "list"
+    },
+    {
+        "id": 409117983,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T07:15:19.230Z",
+        "type": "list"
+    }
+]
+2019-11-01 12:53:48 INFO  RestAPI:69 - Status_Code----200
+2019-11-01 12:53:48 INFO  RestAPI:89 - Finish
+2019-11-01 13:43:29 INFO  RestAPI:26 - POST Request
+2019-11-01 13:43:32 INFO  RestAPI:29 - POST Request
+2019-11-01 13:43:37 INFO  RestAPI:23 -  First GET Request
+2019-11-01 13:43:40 INFO  RestAPI:40 -  Checking validation for GET Request
+2019-11-01 13:43:40 INFO  RestAPI:42 - Response_Body----[
+    {
+        "id": 408409255,
+        "title": "inbox",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "inbox",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-23T09:30:28.945Z",
+        "type": "list"
+    },
+    {
+        "id": 409061487,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:01:44.740Z",
+        "type": "list"
+    },
+    {
+        "id": 409062633,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:19:20.619Z",
+        "type": "list"
+    },
+    {
+        "id": 409062810,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:21:53.312Z",
+        "type": "list"
+    },
+    {
+        "id": 409064517,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:44:35.169Z",
+        "type": "list"
+    },
+    {
+        "id": 409064536,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 5,
+        "created_at": "2019-10-31T12:44:56.763Z",
+        "type": "list"
+    },
+    {
+        "id": 409064815,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:48:35.676Z",
+        "type": "list"
+    },
+    {
+        "id": 409066859,
+        "title": "SANJEEV",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 5,
+        "created_at": "2019-10-31T13:17:05.627Z",
+        "type": "list"
+    },
+    {
+        "id": 409116086,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:38.919Z",
+        "type": "list"
+    },
+    {
+        "id": 409116096,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:43.892Z",
+        "type": "list"
+    },
+    {
+        "id": 409116433,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:54.566Z",
+        "type": "list"
+    },
+    {
+        "id": 409116437,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:59.943Z",
+        "type": "list"
+    },
+    {
+        "id": 409116525,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:12.109Z",
+        "type": "list"
+    },
+    {
+        "id": 409116530,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:17.216Z",
+        "type": "list"
+    },
+    {
+        "id": 409116597,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:41:59.592Z",
+        "type": "list"
+    },
+    {
+        "id": 409116600,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:42:04.920Z",
+        "type": "list"
+    },
+    {
+        "id": 409116731,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:45:17.797Z",
+        "type": "list"
+    },
+    {
+        "id": 409116735,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:45:23.060Z",
+        "type": "list"
+    },
+    {
+        "id": 409116821,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:47:24.133Z",
+        "type": "list"
+    },
+    {
+        "id": 409116825,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:47:29.581Z",
+        "type": "list"
+    },
+    {
+        "id": 409117353,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T07:00:54.502Z",
+        "type": "list"
+    },
+    {
+        "id": 409117356,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T07:00:59.550Z",
+        "type": "list"
+    },
+    {
+        "id": 409117975,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T07:15:13.894Z",
+        "type": "list"
+    },
+    {
+        "id": 409117983,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T07:15:19.230Z",
+        "type": "list"
+    },
+    {
+        "id": 409120550,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:13:28.321Z",
+        "type": "list"
+    },
+    {
+        "id": 409120554,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:13:33.715Z",
+        "type": "list"
+    }
+]
+2019-11-01 13:43:40 INFO  RestAPI:69 - Status_Code----200
+2019-11-01 13:43:40 INFO  RestAPI:89 - Finish
+2019-11-01 13:43:40 INFO  RestAPI:20 -  GET Request 
+2019-11-01 13:43:44 INFO  RestAPI:37 -  Checking Response Body for GET Request By ID
+2019-11-01 13:43:44 INFO  RestAPI:39 - Response_Body----{
+    "id": 408409255,
+    "title": "inbox",
+    "owner_type": "user",
+    "owner_id": 96532794,
+    "list_type": "inbox",
+    "public": false,
+    "revision": 1,
+    "created_at": "2019-10-23T09:30:28.945Z",
+    "type": "list"
+}
+2019-11-01 13:43:44 INFO  RestAPI:65 - Status_Code------200
+2019-11-01 13:43:44 INFO  RestAPI:86 -  Finish
+2019-11-01 13:43:44 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 13:43:46 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 13:43:47 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 13:43:48 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 13:45:25 INFO  RestAPI:26 - POST Request
+2019-11-01 13:45:28 INFO  RestAPI:29 - POST Request
+2019-11-01 13:45:33 INFO  RestAPI:23 -  First GET Request
+2019-11-01 13:45:36 INFO  RestAPI:40 -  Checking validation for GET Request
+2019-11-01 13:45:36 INFO  RestAPI:42 - Response_Body----[
+    {
+        "id": 408409255,
+        "title": "inbox",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "inbox",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-23T09:30:28.945Z",
+        "type": "list"
+    },
+    {
+        "id": 409061487,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:01:44.740Z",
+        "type": "list"
+    },
+    {
+        "id": 409062633,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:19:20.619Z",
+        "type": "list"
+    },
+    {
+        "id": 409062810,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:21:53.312Z",
+        "type": "list"
+    },
+    {
+        "id": 409064517,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:44:35.169Z",
+        "type": "list"
+    },
+    {
+        "id": 409064536,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 6,
+        "created_at": "2019-10-31T12:44:56.763Z",
+        "type": "list"
+    },
+    {
+        "id": 409064815,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:48:35.676Z",
+        "type": "list"
+    },
+    {
+        "id": 409066859,
+        "title": "SANJEEV",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 6,
+        "created_at": "2019-10-31T13:17:05.627Z",
+        "type": "list"
+    },
+    {
+        "id": 409116086,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:38.919Z",
+        "type": "list"
+    },
+    {
+        "id": 409116096,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:43.892Z",
+        "type": "list"
+    },
+    {
+        "id": 409116433,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:54.566Z",
+        "type": "list"
+    },
+    {
+        "id": 409116437,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:59.943Z",
+        "type": "list"
+    },
+    {
+        "id": 409116525,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:12.109Z",
+        "type": "list"
+    },
+    {
+        "id": 409116530,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:17.216Z",
+        "type": "list"
+    },
+    {
+        "id": 409116597,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:41:59.592Z",
+        "type": "list"
+    },
+    {
+        "id": 409116600,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:42:04.920Z",
+        "type": "list"
+    },
+    {
+        "id": 409116731,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:45:17.797Z",
+        "type": "list"
+    },
+    {
+        "id": 409116735,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:45:23.060Z",
+        "type": "list"
+    },
+    {
+        "id": 409116821,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:47:24.133Z",
+        "type": "list"
+    },
+    {
+        "id": 409116825,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:47:29.581Z",
+        "type": "list"
+    },
+    {
+        "id": 409117353,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T07:00:54.502Z",
+        "type": "list"
+    },
+    {
+        "id": 409117356,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T07:00:59.550Z",
+        "type": "list"
+    },
+    {
+        "id": 409117975,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T07:15:13.894Z",
+        "type": "list"
+    },
+    {
+        "id": 409117983,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T07:15:19.230Z",
+        "type": "list"
+    },
+    {
+        "id": 409120550,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:13:28.321Z",
+        "type": "list"
+    },
+    {
+        "id": 409120554,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:13:33.715Z",
+        "type": "list"
+    },
+    {
+        "id": 409120632,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:15:24.459Z",
+        "type": "list"
+    },
+    {
+        "id": 409120634,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:15:30.061Z",
+        "type": "list"
+    }
+]
+2019-11-01 13:45:36 INFO  RestAPI:69 - Status_Code----200
+2019-11-01 13:45:36 INFO  RestAPI:89 - Finish
+2019-11-01 13:45:36 INFO  RestAPI:20 -  GET Request 
+2019-11-01 13:45:40 INFO  RestAPI:37 -  Checking Response Body for GET Request By ID
+2019-11-01 13:45:40 INFO  RestAPI:39 - Response_Body----{
+    "id": 408409255,
+    "title": "inbox",
+    "owner_type": "user",
+    "owner_id": 96532794,
+    "list_type": "inbox",
+    "public": false,
+    "revision": 1,
+    "created_at": "2019-10-23T09:30:28.945Z",
+    "type": "list"
+}
+2019-11-01 13:45:40 INFO  RestAPI:65 - Status_Code------200
+2019-11-01 13:45:40 INFO  RestAPI:86 -  Finish
+2019-11-01 13:45:41 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 13:45:42 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 13:45:43 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 13:45:44 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 13:49:49 INFO  RestAPI:26 - POST Request
+2019-11-01 13:49:56 INFO  RestAPI:29 - POST Request
+2019-11-01 13:50:01 INFO  RestAPI:23 -  First GET Request
+2019-11-01 13:50:05 INFO  RestAPI:40 -  Checking validation for GET Request
+2019-11-01 13:50:05 INFO  RestAPI:42 - Response_Body----[
+    {
+        "id": 408409255,
+        "title": "inbox",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "inbox",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-23T09:30:28.945Z",
+        "type": "list"
+    },
+    {
+        "id": 409061487,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:01:44.740Z",
+        "type": "list"
+    },
+    {
+        "id": 409062633,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:19:20.619Z",
+        "type": "list"
+    },
+    {
+        "id": 409062810,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:21:53.312Z",
+        "type": "list"
+    },
+    {
+        "id": 409064517,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:44:35.169Z",
+        "type": "list"
+    },
+    {
+        "id": 409064536,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 7,
+        "created_at": "2019-10-31T12:44:56.763Z",
+        "type": "list"
+    },
+    {
+        "id": 409064815,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:48:35.676Z",
+        "type": "list"
+    },
+    {
+        "id": 409066859,
+        "title": "SANJEEV",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 7,
+        "created_at": "2019-10-31T13:17:05.627Z",
+        "type": "list"
+    },
+    {
+        "id": 409116086,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:38.919Z",
+        "type": "list"
+    },
+    {
+        "id": 409116096,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:43.892Z",
+        "type": "list"
+    },
+    {
+        "id": 409116433,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:54.566Z",
+        "type": "list"
+    },
+    {
+        "id": 409116437,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:59.943Z",
+        "type": "list"
+    },
+    {
+        "id": 409116525,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:12.109Z",
+        "type": "list"
+    },
+    {
+        "id": 409116530,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:17.216Z",
+        "type": "list"
+    },
+    {
+        "id": 409116597,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:41:59.592Z",
+        "type": "list"
+    },
+    {
+        "id": 409116600,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:42:04.920Z",
+        "type": "list"
+    },
+    {
+        "id": 409116731,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:45:17.797Z",
+        "type": "list"
+    },
+    {
+        "id": 409116735,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:45:23.060Z",
+        "type": "list"
+    },
+    {
+        "id": 409116821,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:47:24.133Z",
+        "type": "list"
+    },
+    {
+        "id": 409116825,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:47:29.581Z",
+        "type": "list"
+    },
+    {
+        "id": 409117353,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T07:00:54.502Z",
+        "type": "list"
+    },
+    {
+        "id": 409117356,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T07:00:59.550Z",
+        "type": "list"
+    },
+    {
+        "id": 409117975,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T07:15:13.894Z",
+        "type": "list"
+    },
+    {
+        "id": 409117983,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T07:15:19.230Z",
+        "type": "list"
+    },
+    {
+        "id": 409120550,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:13:28.321Z",
+        "type": "list"
+    },
+    {
+        "id": 409120554,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:13:33.715Z",
+        "type": "list"
+    },
+    {
+        "id": 409120632,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:15:24.459Z",
+        "type": "list"
+    },
+    {
+        "id": 409120634,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:15:30.061Z",
+        "type": "list"
+    },
+    {
+        "id": 409120863,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:19:52.794Z",
+        "type": "list"
+    },
+    {
+        "id": 409120874,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:19:58.218Z",
+        "type": "list"
+    }
+]
+2019-11-01 13:50:05 INFO  RestAPI:69 - Status_Code----200
+2019-11-01 13:50:05 INFO  RestAPI:89 - Finish
+2019-11-01 13:50:05 INFO  RestAPI:20 -  GET Request 
+2019-11-01 13:50:09 INFO  RestAPI:37 -  Checking Response Body for GET Request By ID
+2019-11-01 13:50:09 INFO  RestAPI:39 - Response_Body----{
+    "id": 408409255,
+    "title": "inbox",
+    "owner_type": "user",
+    "owner_id": 96532794,
+    "list_type": "inbox",
+    "public": false,
+    "revision": 1,
+    "created_at": "2019-10-23T09:30:28.945Z",
+    "type": "list"
+}
+2019-11-01 13:50:09 INFO  RestAPI:65 - Status_Code------200
+2019-11-01 13:50:09 INFO  RestAPI:86 -  Finish
+2019-11-01 13:50:09 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 13:50:10 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 13:50:12 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 13:50:14 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 13:59:33 INFO  RestAPI:24 -  PUT Request 
+2019-11-01 13:59:33 INFO  RestAPI:41 - ***** Checking DELETE Request of lists *****
+2019-11-01 14:01:08 INFO  RestAPI:25 - Delete Request
+2019-11-01 14:01:15 INFO  RestAPI:80 - Delete Operation Started
+2019-11-01 14:01:15 INFO  RestAPI:83 - Status_Code------200
+2019-11-01 14:01:47 INFO  RestAPI:25 - Delete Request
+2019-11-01 14:01:55 INFO  RestAPI:80 - Delete Operation Started
+2019-11-01 14:01:55 INFO  RestAPI:83 - Status_Code------200
+2019-11-01 14:02:22 INFO  RestAPI:24 -  PUT Request 
+2019-11-01 14:02:22 INFO  RestAPI:41 - ***** Checking DELETE Request of lists *****
+2019-11-01 14:03:05 INFO  RestAPI:24 -  PUT Request 
+2019-11-01 14:03:06 INFO  RestAPI:41 - ***** Checking DELETE Request of lists *****
+2019-11-01 14:03:57 INFO  RestAPI:24 -  Delete Request 
+2019-11-01 14:03:58 INFO  RestAPI:41 - ***** Checking DELETE Request of lists *****
+2019-11-01 14:04:40 INFO  RestAPI:24 -  PUT Request 
+2019-11-01 14:04:41 INFO  RestAPI:41 - ***** Checking DELETE Request of lists *****
+2019-11-01 14:05:07 INFO  RestAPI:26 - POST Request
+2019-11-01 14:05:10 INFO  RestAPI:29 - POST Request
+2019-11-01 14:05:15 INFO  RestAPI:23 -  First GET Request
+2019-11-01 14:05:18 INFO  RestAPI:40 -  Checking validation for GET Request
+2019-11-01 14:05:18 INFO  RestAPI:42 - Response_Body----[
+    {
+        "id": 408409255,
+        "title": "inbox",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "inbox",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-23T09:30:28.945Z",
+        "type": "list"
+    },
+    {
+        "id": 409061487,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:01:44.740Z",
+        "type": "list"
+    },
+    {
+        "id": 409062633,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:19:20.619Z",
+        "type": "list"
+    },
+    {
+        "id": 409062810,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:21:53.312Z",
+        "type": "list"
+    },
+    {
+        "id": 409064517,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:44:35.169Z",
+        "type": "list"
+    },
+    {
+        "id": 409064536,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 9,
+        "created_at": "2019-10-31T12:44:56.763Z",
+        "type": "list"
+    },
+    {
+        "id": 409064815,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:48:35.676Z",
+        "type": "list"
+    },
+    {
+        "id": 409066859,
+        "title": "SANJEEV",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 9,
+        "created_at": "2019-10-31T13:17:05.627Z",
+        "type": "list"
+    },
+    {
+        "id": 409116086,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:38.919Z",
+        "type": "list"
+    },
+    {
+        "id": 409116096,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:43.892Z",
+        "type": "list"
+    },
+    {
+        "id": 409116433,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:54.566Z",
+        "type": "list"
+    },
+    {
+        "id": 409116437,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:59.943Z",
+        "type": "list"
+    },
+    {
+        "id": 409116525,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:12.109Z",
+        "type": "list"
+    },
+    {
+        "id": 409116530,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:17.216Z",
+        "type": "list"
+    },
+    {
+        "id": 409116597,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:41:59.592Z",
+        "type": "list"
+    },
+    {
+        "id": 409116600,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:42:04.920Z",
+        "type": "list"
+    },
+    {
+        "id": 409116731,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:45:17.797Z",
+        "type": "list"
+    },
+    {
+        "id": 409116735,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:45:23.060Z",
+        "type": "list"
+    },
+    {
+        "id": 409116821,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:47:24.133Z",
+        "type": "list"
+    },
+    {
+        "id": 409116825,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:47:29.581Z",
+        "type": "list"
+    },
+    {
+        "id": 409120632,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:15:24.459Z",
+        "type": "list"
+    },
+    {
+        "id": 409120634,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:15:30.061Z",
+        "type": "list"
+    },
+    {
+        "id": 409120874,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:19:58.218Z",
+        "type": "list"
+    },
+    {
+        "id": 409121645,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:35:06.375Z",
+        "type": "list"
+    },
+    {
+        "id": 409121648,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:35:11.764Z",
+        "type": "list"
+    }
+]
+2019-11-01 14:05:18 INFO  RestAPI:69 - Status_Code----200
+2019-11-01 14:05:18 INFO  RestAPI:89 - Finish
+2019-11-01 14:05:18 INFO  RestAPI:20 -  GET Request 
+2019-11-01 14:05:22 INFO  RestAPI:37 -  Checking Response Body for GET Request By ID
+2019-11-01 14:05:22 INFO  RestAPI:39 - Response_Body----{
+    "id": 408409255,
+    "title": "inbox",
+    "owner_type": "user",
+    "owner_id": 96532794,
+    "list_type": "inbox",
+    "public": false,
+    "revision": 1,
+    "created_at": "2019-10-23T09:30:28.945Z",
+    "type": "list"
+}
+2019-11-01 14:05:22 INFO  RestAPI:65 - Status_Code------200
+2019-11-01 14:05:22 INFO  RestAPI:86 -  Finish
+2019-11-01 14:05:22 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 14:05:23 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 14:05:25 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 14:05:27 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 14:05:28 INFO  RestAPI:24 -  Delete Request 
+2019-11-01 14:05:28 INFO  RestAPI:41 - ***** Checking DELETE Request of lists *****
+2019-11-01 14:05:31 INFO  RestAPI:24 -  PUT Request 
+2019-11-01 14:05:31 INFO  RestAPI:41 - ***** Checking DELETE Request of lists *****
+2019-11-01 14:09:11 INFO  RestAPI:26 - POST Request
+2019-11-01 14:09:14 INFO  RestAPI:29 - POST Request
+2019-11-01 14:09:19 INFO  RestAPI:23 -  First GET Request
+2019-11-01 14:09:23 INFO  RestAPI:40 -  Checking validation for GET Request
+2019-11-01 14:09:23 INFO  RestAPI:42 - Response_Body----[
+    {
+        "id": 408409255,
+        "title": "inbox",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "inbox",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-23T09:30:28.945Z",
+        "type": "list"
+    },
+    {
+        "id": 409061487,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:01:44.740Z",
+        "type": "list"
+    },
+    {
+        "id": 409062633,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:19:20.619Z",
+        "type": "list"
+    },
+    {
+        "id": 409062810,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:21:53.312Z",
+        "type": "list"
+    },
+    {
+        "id": 409064517,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:44:35.169Z",
+        "type": "list"
+    },
+    {
+        "id": 409064536,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 9,
+        "created_at": "2019-10-31T12:44:56.763Z",
+        "type": "list"
+    },
+    {
+        "id": 409064815,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:48:35.676Z",
+        "type": "list"
+    },
+    {
+        "id": 409066859,
+        "title": "SANJEEV",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 9,
+        "created_at": "2019-10-31T13:17:05.627Z",
+        "type": "list"
+    },
+    {
+        "id": 409116086,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:38.919Z",
+        "type": "list"
+    },
+    {
+        "id": 409116096,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:43.892Z",
+        "type": "list"
+    },
+    {
+        "id": 409116433,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:54.566Z",
+        "type": "list"
+    },
+    {
+        "id": 409116437,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:59.943Z",
+        "type": "list"
+    },
+    {
+        "id": 409116525,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:12.109Z",
+        "type": "list"
+    },
+    {
+        "id": 409116530,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:17.216Z",
+        "type": "list"
+    },
+    {
+        "id": 409116597,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:41:59.592Z",
+        "type": "list"
+    },
+    {
+        "id": 409116600,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:42:04.920Z",
+        "type": "list"
+    },
+    {
+        "id": 409116731,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:45:17.797Z",
+        "type": "list"
+    },
+    {
+        "id": 409116735,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:45:23.060Z",
+        "type": "list"
+    },
+    {
+        "id": 409116821,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:47:24.133Z",
+        "type": "list"
+    },
+    {
+        "id": 409116825,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:47:29.581Z",
+        "type": "list"
+    },
+    {
+        "id": 409120634,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:15:30.061Z",
+        "type": "list"
+    },
+    {
+        "id": 409120874,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:19:58.218Z",
+        "type": "list"
+    },
+    {
+        "id": 409121648,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:35:11.764Z",
+        "type": "list"
+    },
+    {
+        "id": 409121897,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:39:10.749Z",
+        "type": "list"
+    },
+    {
+        "id": 409121902,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:39:16.291Z",
+        "type": "list"
+    }
+]
+2019-11-01 14:09:23 INFO  RestAPI:69 - Status_Code----200
+2019-11-01 14:09:23 INFO  RestAPI:89 - Finish
+2019-11-01 14:09:23 INFO  RestAPI:20 -  GET Request 
+2019-11-01 14:09:27 INFO  RestAPI:37 -  Checking Response Body for GET Request By ID
+2019-11-01 14:09:27 INFO  RestAPI:39 - Response_Body----{
+    "id": 408409255,
+    "title": "inbox",
+    "owner_type": "user",
+    "owner_id": 96532794,
+    "list_type": "inbox",
+    "public": false,
+    "revision": 1,
+    "created_at": "2019-10-23T09:30:28.945Z",
+    "type": "list"
+}
+2019-11-01 14:09:27 INFO  RestAPI:65 - Status_Code------200
+2019-11-01 14:09:27 INFO  RestAPI:86 -  Finish
+2019-11-01 14:09:27 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 14:09:28 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 14:09:29 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 14:09:30 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 14:09:32 INFO  RestAPI:24 -  Delete Request 
+2019-11-01 14:09:32 INFO  RestAPI:41 - ***** Checking DELETE Request of lists *****
+2019-11-01 14:09:35 INFO  RestAPI:24 -  PUT Request 
+2019-11-01 14:09:35 INFO  RestAPI:41 - ***** Checking DELETE Request of lists *****
+2019-11-01 14:11:12 INFO  RestAPI:26 - POST Request
+2019-11-01 14:11:15 INFO  RestAPI:29 - POST Request
+2019-11-01 14:11:20 INFO  RestAPI:23 -  First GET Request
+2019-11-01 14:11:24 INFO  RestAPI:40 -  Checking validation for GET Request
+2019-11-01 14:11:24 INFO  RestAPI:42 - Response_Body----[
+    {
+        "id": 408409255,
+        "title": "inbox",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "inbox",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-23T09:30:28.945Z",
+        "type": "list"
+    },
+    {
+        "id": 409061487,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:01:44.740Z",
+        "type": "list"
+    },
+    {
+        "id": 409062633,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:19:20.619Z",
+        "type": "list"
+    },
+    {
+        "id": 409062810,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:21:53.312Z",
+        "type": "list"
+    },
+    {
+        "id": 409064517,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:44:35.169Z",
+        "type": "list"
+    },
+    {
+        "id": 409064536,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 9,
+        "created_at": "2019-10-31T12:44:56.763Z",
+        "type": "list"
+    },
+    {
+        "id": 409064815,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:48:35.676Z",
+        "type": "list"
+    },
+    {
+        "id": 409066859,
+        "title": "SANJEEV",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 9,
+        "created_at": "2019-10-31T13:17:05.627Z",
+        "type": "list"
+    },
+    {
+        "id": 409116086,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:38.919Z",
+        "type": "list"
+    },
+    {
+        "id": 409116096,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:43.892Z",
+        "type": "list"
+    },
+    {
+        "id": 409116433,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:54.566Z",
+        "type": "list"
+    },
+    {
+        "id": 409116437,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:59.943Z",
+        "type": "list"
+    },
+    {
+        "id": 409116525,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:12.109Z",
+        "type": "list"
+    },
+    {
+        "id": 409116530,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:17.216Z",
+        "type": "list"
+    },
+    {
+        "id": 409116597,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:41:59.592Z",
+        "type": "list"
+    },
+    {
+        "id": 409116600,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:42:04.920Z",
+        "type": "list"
+    },
+    {
+        "id": 409116731,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:45:17.797Z",
+        "type": "list"
+    },
+    {
+        "id": 409116735,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:45:23.060Z",
+        "type": "list"
+    },
+    {
+        "id": 409116821,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:47:24.133Z",
+        "type": "list"
+    },
+    {
+        "id": 409116825,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:47:29.581Z",
+        "type": "list"
+    },
+    {
+        "id": 409120874,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:19:58.218Z",
+        "type": "list"
+    },
+    {
+        "id": 409121648,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:35:11.764Z",
+        "type": "list"
+    },
+    {
+        "id": 409121902,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:39:16.291Z",
+        "type": "list"
+    },
+    {
+        "id": 409122001,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:41:11.543Z",
+        "type": "list"
+    },
+    {
+        "id": 409122014,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:41:17.100Z",
+        "type": "list"
+    }
+]
+2019-11-01 14:11:24 INFO  RestAPI:69 - Status_Code----200
+2019-11-01 14:11:24 INFO  RestAPI:89 - Finish
+2019-11-01 14:11:24 INFO  RestAPI:20 -  GET Request 
+2019-11-01 14:11:28 INFO  RestAPI:37 -  Checking Response Body for GET Request By ID
+2019-11-01 14:11:28 INFO  RestAPI:39 - Response_Body----{
+    "id": 408409255,
+    "title": "inbox",
+    "owner_type": "user",
+    "owner_id": 96532794,
+    "list_type": "inbox",
+    "public": false,
+    "revision": 1,
+    "created_at": "2019-10-23T09:30:28.945Z",
+    "type": "list"
+}
+2019-11-01 14:11:28 INFO  RestAPI:65 - Status_Code------200
+2019-11-01 14:11:28 INFO  RestAPI:86 -  Finish
+2019-11-01 14:11:28 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 14:11:29 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 14:11:31 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 14:11:32 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 14:11:33 INFO  RestAPI:24 -  Delete Request 
+2019-11-01 14:11:33 INFO  RestAPI:41 - ***** Checking DELETE Request of lists *****
+2019-11-01 14:11:36 INFO  RestAPI:24 -  PUT Request 
+2019-11-01 14:11:36 INFO  RestAPI:41 - ***** Checking DELETE Request of lists *****
+2019-11-01 14:15:21 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 14:17:21 INFO  RestAPI:26 - POST Request
+2019-11-01 14:17:23 INFO  RestAPI:29 - POST Request
+2019-11-01 14:17:29 INFO  RestAPI:23 -  First GET Request
+2019-11-01 14:17:32 INFO  RestAPI:40 -  Checking validation for GET Request
+2019-11-01 14:17:32 INFO  RestAPI:42 - Response_Body----[
+    {
+        "id": 408409255,
+        "title": "inbox",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "inbox",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-23T09:30:28.945Z",
+        "type": "list"
+    },
+    {
+        "id": 409061487,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:01:44.740Z",
+        "type": "list"
+    },
+    {
+        "id": 409062633,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:19:20.619Z",
+        "type": "list"
+    },
+    {
+        "id": 409062810,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:21:53.312Z",
+        "type": "list"
+    },
+    {
+        "id": 409064517,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:44:35.169Z",
+        "type": "list"
+    },
+    {
+        "id": 409064536,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 9,
+        "created_at": "2019-10-31T12:44:56.763Z",
+        "type": "list"
+    },
+    {
+        "id": 409064815,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:48:35.676Z",
+        "type": "list"
+    },
+    {
+        "id": 409066859,
+        "title": "SANJEEV",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 9,
+        "created_at": "2019-10-31T13:17:05.627Z",
+        "type": "list"
+    },
+    {
+        "id": 409116086,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:38.919Z",
+        "type": "list"
+    },
+    {
+        "id": 409116096,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:43.892Z",
+        "type": "list"
+    },
+    {
+        "id": 409116433,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:54.566Z",
+        "type": "list"
+    },
+    {
+        "id": 409116437,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:59.943Z",
+        "type": "list"
+    },
+    {
+        "id": 409116525,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:12.109Z",
+        "type": "list"
+    },
+    {
+        "id": 409116530,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:17.216Z",
+        "type": "list"
+    },
+    {
+        "id": 409116597,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:41:59.592Z",
+        "type": "list"
+    },
+    {
+        "id": 409116600,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:42:04.920Z",
+        "type": "list"
+    },
+    {
+        "id": 409116731,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:45:17.797Z",
+        "type": "list"
+    },
+    {
+        "id": 409116735,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:45:23.060Z",
+        "type": "list"
+    },
+    {
+        "id": 409116821,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:47:24.133Z",
+        "type": "list"
+    },
+    {
+        "id": 409116825,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:47:29.581Z",
+        "type": "list"
+    },
+    {
+        "id": 409121648,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:35:11.764Z",
+        "type": "list"
+    },
+    {
+        "id": 409121902,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:39:16.291Z",
+        "type": "list"
+    },
+    {
+        "id": 409122014,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:41:17.100Z",
+        "type": "list"
+    },
+    {
+        "id": 409122327,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:47:20.270Z",
+        "type": "list"
+    },
+    {
+        "id": 409122333,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:47:25.992Z",
+        "type": "list"
+    }
+]
+2019-11-01 14:17:32 INFO  RestAPI:69 - Status_Code----200
+2019-11-01 14:17:32 INFO  RestAPI:89 - Finish
+2019-11-01 14:17:32 INFO  RestAPI:20 -  GET Request 
+2019-11-01 14:17:36 INFO  RestAPI:37 -  Checking Response Body for GET Request By ID
+2019-11-01 14:17:36 INFO  RestAPI:39 - Response_Body----{
+    "id": 408409255,
+    "title": "inbox",
+    "owner_type": "user",
+    "owner_id": 96532794,
+    "list_type": "inbox",
+    "public": false,
+    "revision": 1,
+    "created_at": "2019-10-23T09:30:28.945Z",
+    "type": "list"
+}
+2019-11-01 14:17:36 INFO  RestAPI:65 - Status_Code------200
+2019-11-01 14:17:36 INFO  RestAPI:86 -  Finish
+2019-11-01 14:17:36 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 14:17:38 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 14:17:39 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 14:17:40 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 14:17:41 INFO  RestAPI:24 -  Delete Request 
+2019-11-01 14:17:41 INFO  RestAPI:41 - ***** Checking DELETE Request of lists *****
+2019-11-01 14:17:44 INFO  RestAPI:24 -  PUT Request 
+2019-11-01 14:17:44 INFO  RestAPI:41 - ***** Checking DELETE Request of lists *****
+2019-11-01 14:18:12 INFO  RestAPI:26 - POST Request
+2019-11-01 14:18:15 INFO  RestAPI:29 - POST Request
+2019-11-01 14:18:20 INFO  RestAPI:23 -  First GET Request
+2019-11-01 14:18:24 INFO  RestAPI:40 -  Checking validation for GET Request
+2019-11-01 14:18:24 INFO  RestAPI:42 - Response_Body----[
+    {
+        "id": 408409255,
+        "title": "inbox",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "inbox",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-23T09:30:28.945Z",
+        "type": "list"
+    },
+    {
+        "id": 409061487,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:01:44.740Z",
+        "type": "list"
+    },
+    {
+        "id": 409062633,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:19:20.619Z",
+        "type": "list"
+    },
+    {
+        "id": 409062810,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:21:53.312Z",
+        "type": "list"
+    },
+    {
+        "id": 409064517,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:44:35.169Z",
+        "type": "list"
+    },
+    {
+        "id": 409064536,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 9,
+        "created_at": "2019-10-31T12:44:56.763Z",
+        "type": "list"
+    },
+    {
+        "id": 409064815,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:48:35.676Z",
+        "type": "list"
+    },
+    {
+        "id": 409066859,
+        "title": "SANJEEV",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 9,
+        "created_at": "2019-10-31T13:17:05.627Z",
+        "type": "list"
+    },
+    {
+        "id": 409116086,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:38.919Z",
+        "type": "list"
+    },
+    {
+        "id": 409116096,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:43.892Z",
+        "type": "list"
+    },
+    {
+        "id": 409116433,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:54.566Z",
+        "type": "list"
+    },
+    {
+        "id": 409116437,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:59.943Z",
+        "type": "list"
+    },
+    {
+        "id": 409116525,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:12.109Z",
+        "type": "list"
+    },
+    {
+        "id": 409116530,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:17.216Z",
+        "type": "list"
+    },
+    {
+        "id": 409116597,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:41:59.592Z",
+        "type": "list"
+    },
+    {
+        "id": 409116600,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:42:04.920Z",
+        "type": "list"
+    },
+    {
+        "id": 409116731,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:45:17.797Z",
+        "type": "list"
+    },
+    {
+        "id": 409116735,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:45:23.060Z",
+        "type": "list"
+    },
+    {
+        "id": 409116821,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:47:24.133Z",
+        "type": "list"
+    },
+    {
+        "id": 409116825,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:47:29.581Z",
+        "type": "list"
+    },
+    {
+        "id": 409121902,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:39:16.291Z",
+        "type": "list"
+    },
+    {
+        "id": 409122014,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:41:17.100Z",
+        "type": "list"
+    },
+    {
+        "id": 409122333,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:47:25.992Z",
+        "type": "list"
+    },
+    {
+        "id": 409122375,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:48:11.686Z",
+        "type": "list"
+    },
+    {
+        "id": 409122378,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:48:17.287Z",
+        "type": "list"
+    }
+]
+2019-11-01 14:18:24 INFO  RestAPI:69 - Status_Code----200
+2019-11-01 14:18:24 INFO  RestAPI:89 - Finish
+2019-11-01 14:18:24 INFO  RestAPI:20 -  GET Request 
+2019-11-01 14:18:28 INFO  RestAPI:37 -  Checking Response Body for GET Request By ID
+2019-11-01 14:18:28 INFO  RestAPI:39 - Response_Body----{
+    "id": 408409255,
+    "title": "inbox",
+    "owner_type": "user",
+    "owner_id": 96532794,
+    "list_type": "inbox",
+    "public": false,
+    "revision": 1,
+    "created_at": "2019-10-23T09:30:28.945Z",
+    "type": "list"
+}
+2019-11-01 14:18:28 INFO  RestAPI:65 - Status_Code------200
+2019-11-01 14:18:28 INFO  RestAPI:86 -  Finish
+2019-11-01 14:18:28 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 14:18:29 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 14:18:30 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 14:18:31 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 14:18:33 INFO  RestAPI:24 -  Delete Request 
+2019-11-01 14:18:33 INFO  RestAPI:41 - ***** Checking DELETE Request of lists *****
+2019-11-01 14:18:36 INFO  RestAPI:24 -  PUT Request 
+2019-11-01 14:18:36 INFO  RestAPI:41 - ***** Checking DELETE Request of lists *****
+2019-11-01 14:19:00 INFO  RestAPI:26 - POST Request
+2019-11-01 14:19:03 INFO  RestAPI:29 - POST Request
+2019-11-01 14:19:08 INFO  RestAPI:23 -  First GET Request
+2019-11-01 14:19:12 INFO  RestAPI:40 -  Checking validation for GET Request
+2019-11-01 14:19:12 INFO  RestAPI:42 - Response_Body----[
+    {
+        "id": 408409255,
+        "title": "inbox",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "inbox",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-23T09:30:28.945Z",
+        "type": "list"
+    },
+    {
+        "id": 409061487,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:01:44.740Z",
+        "type": "list"
+    },
+    {
+        "id": 409062633,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:19:20.619Z",
+        "type": "list"
+    },
+    {
+        "id": 409062810,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:21:53.312Z",
+        "type": "list"
+    },
+    {
+        "id": 409064517,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:44:35.169Z",
+        "type": "list"
+    },
+    {
+        "id": 409064536,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 9,
+        "created_at": "2019-10-31T12:44:56.763Z",
+        "type": "list"
+    },
+    {
+        "id": 409064815,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:48:35.676Z",
+        "type": "list"
+    },
+    {
+        "id": 409066859,
+        "title": "SANJEEV",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 9,
+        "created_at": "2019-10-31T13:17:05.627Z",
+        "type": "list"
+    },
+    {
+        "id": 409116086,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:38.919Z",
+        "type": "list"
+    },
+    {
+        "id": 409116096,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:43.892Z",
+        "type": "list"
+    },
+    {
+        "id": 409116433,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:54.566Z",
+        "type": "list"
+    },
+    {
+        "id": 409116437,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:59.943Z",
+        "type": "list"
+    },
+    {
+        "id": 409116525,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:12.109Z",
+        "type": "list"
+    },
+    {
+        "id": 409116530,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:17.216Z",
+        "type": "list"
+    },
+    {
+        "id": 409116597,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:41:59.592Z",
+        "type": "list"
+    },
+    {
+        "id": 409116600,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:42:04.920Z",
+        "type": "list"
+    },
+    {
+        "id": 409116731,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:45:17.797Z",
+        "type": "list"
+    },
+    {
+        "id": 409116735,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:45:23.060Z",
+        "type": "list"
+    },
+    {
+        "id": 409116821,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:47:24.133Z",
+        "type": "list"
+    },
+    {
+        "id": 409116825,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:47:29.581Z",
+        "type": "list"
+    },
+    {
+        "id": 409122014,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:41:17.100Z",
+        "type": "list"
+    },
+    {
+        "id": 409122333,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:47:25.992Z",
+        "type": "list"
+    },
+    {
+        "id": 409122378,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:48:17.287Z",
+        "type": "list"
+    },
+    {
+        "id": 409122421,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:48:59.522Z",
+        "type": "list"
+    },
+    {
+        "id": 409122427,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:49:05.282Z",
+        "type": "list"
+    }
+]
+2019-11-01 14:19:12 INFO  RestAPI:69 - Status_Code----200
+2019-11-01 14:19:12 INFO  RestAPI:89 - Finish
+2019-11-01 14:19:12 INFO  RestAPI:20 -  GET Request 
+2019-11-01 14:19:16 INFO  RestAPI:37 -  Checking Response Body for GET Request By ID
+2019-11-01 14:19:16 INFO  RestAPI:39 - Response_Body----{
+    "id": 408409255,
+    "title": "inbox",
+    "owner_type": "user",
+    "owner_id": 96532794,
+    "list_type": "inbox",
+    "public": false,
+    "revision": 1,
+    "created_at": "2019-10-23T09:30:28.945Z",
+    "type": "list"
+}
+2019-11-01 14:19:16 INFO  RestAPI:65 - Status_Code------200
+2019-11-01 14:19:16 INFO  RestAPI:86 -  Finish
+2019-11-01 14:19:16 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 14:19:17 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 14:19:18 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 14:19:20 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 14:19:21 INFO  RestAPI:24 -  Delete Request 
+2019-11-01 14:19:21 INFO  RestAPI:41 - ***** Checking DELETE Request of lists *****
+2019-11-01 14:19:24 INFO  RestAPI:24 -  PUT Request 
+2019-11-01 14:19:24 INFO  RestAPI:41 - ***** Checking DELETE Request of lists *****
+2019-11-01 14:46:11 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 14:46:43 INFO  RestAPI:26 - POST Request
+2019-11-01 14:46:46 INFO  RestAPI:29 - POST Request
+2019-11-01 14:46:51 INFO  RestAPI:23 -  First GET Request
+2019-11-01 14:46:55 INFO  RestAPI:40 -  Checking validation for GET Request
+2019-11-01 14:46:55 INFO  RestAPI:42 - Response_Body----[
+    {
+        "id": 408409255,
+        "title": "inbox",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "inbox",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-23T09:30:28.945Z",
+        "type": "list"
+    },
+    {
+        "id": 409061487,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:01:44.740Z",
+        "type": "list"
+    },
+    {
+        "id": 409062633,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:19:20.619Z",
+        "type": "list"
+    },
+    {
+        "id": 409062810,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:21:53.312Z",
+        "type": "list"
+    },
+    {
+        "id": 409064517,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:44:35.169Z",
+        "type": "list"
+    },
+    {
+        "id": 409064536,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 10,
+        "created_at": "2019-10-31T12:44:56.763Z",
+        "type": "list"
+    },
+    {
+        "id": 409064815,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:48:35.676Z",
+        "type": "list"
+    },
+    {
+        "id": 409066859,
+        "title": "SANJEEV",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 9,
+        "created_at": "2019-10-31T13:17:05.627Z",
+        "type": "list"
+    },
+    {
+        "id": 409116086,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:38.919Z",
+        "type": "list"
+    },
+    {
+        "id": 409116096,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:43.892Z",
+        "type": "list"
+    },
+    {
+        "id": 409116433,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:54.566Z",
+        "type": "list"
+    },
+    {
+        "id": 409116437,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:59.943Z",
+        "type": "list"
+    },
+    {
+        "id": 409116525,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:12.109Z",
+        "type": "list"
+    },
+    {
+        "id": 409116530,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:17.216Z",
+        "type": "list"
+    },
+    {
+        "id": 409116597,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:41:59.592Z",
+        "type": "list"
+    },
+    {
+        "id": 409116600,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:42:04.920Z",
+        "type": "list"
+    },
+    {
+        "id": 409116731,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:45:17.797Z",
+        "type": "list"
+    },
+    {
+        "id": 409116735,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:45:23.060Z",
+        "type": "list"
+    },
+    {
+        "id": 409116821,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:47:24.133Z",
+        "type": "list"
+    },
+    {
+        "id": 409116825,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:47:29.581Z",
+        "type": "list"
+    },
+    {
+        "id": 409122333,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:47:25.992Z",
+        "type": "list"
+    },
+    {
+        "id": 409122378,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:48:17.287Z",
+        "type": "list"
+    },
+    {
+        "id": 409122427,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:49:05.282Z",
+        "type": "list"
+    },
+    {
+        "id": 409123788,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T09:16:42.992Z",
+        "type": "list"
+    },
+    {
+        "id": 409123792,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T09:16:48.255Z",
+        "type": "list"
+    }
+]
+2019-11-01 14:46:55 INFO  RestAPI:69 - Status_Code----200
+2019-11-01 14:46:55 INFO  RestAPI:89 - Finish
+2019-11-01 14:46:55 INFO  RestAPI:20 -  GET Request 
+2019-11-01 14:46:59 INFO  RestAPI:37 -  Checking Response Body for GET Request By ID
+2019-11-01 14:46:59 INFO  RestAPI:39 - Response_Body----{
+    "id": 408409255,
+    "title": "inbox",
+    "owner_type": "user",
+    "owner_id": 96532794,
+    "list_type": "inbox",
+    "public": false,
+    "revision": 1,
+    "created_at": "2019-10-23T09:30:28.945Z",
+    "type": "list"
+}
+2019-11-01 14:46:59 INFO  RestAPI:65 - Status_Code------200
+2019-11-01 14:46:59 INFO  RestAPI:86 -  Finish
+2019-11-01 14:46:59 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 14:47:00 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 14:47:02 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 14:47:03 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 14:47:04 INFO  RestAPI:24 -  Delete Request 
+2019-11-01 14:47:04 INFO  RestAPI:41 - ***** Checking DELETE Request of lists *****
+2019-11-01 14:47:07 INFO  RestAPI:24 -  PUT Request 
+2019-11-01 14:47:07 INFO  RestAPI:41 - ***** Checking DELETE Request of lists *****
+2019-11-01 14:47:49 INFO  RestAPI:26 - POST Request
+2019-11-01 14:47:52 INFO  RestAPI:29 - POST Request
+2019-11-01 14:47:57 INFO  RestAPI:23 -  First GET Request
+2019-11-01 14:48:01 INFO  RestAPI:40 -  Checking validation for GET Request
+2019-11-01 14:48:01 INFO  RestAPI:42 - Response_Body----[
+    {
+        "id": 408409255,
+        "title": "inbox",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "inbox",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-23T09:30:28.945Z",
+        "type": "list"
+    },
+    {
+        "id": 409061487,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:01:44.740Z",
+        "type": "list"
+    },
+    {
+        "id": 409062633,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:19:20.619Z",
+        "type": "list"
+    },
+    {
+        "id": 409062810,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:21:53.312Z",
+        "type": "list"
+    },
+    {
+        "id": 409064517,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:44:35.169Z",
+        "type": "list"
+    },
+    {
+        "id": 409064536,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 10,
+        "created_at": "2019-10-31T12:44:56.763Z",
+        "type": "list"
+    },
+    {
+        "id": 409064815,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:48:35.676Z",
+        "type": "list"
+    },
+    {
+        "id": 409066859,
+        "title": "SANJEEV",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 9,
+        "created_at": "2019-10-31T13:17:05.627Z",
+        "type": "list"
+    },
+    {
+        "id": 409116086,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:38.919Z",
+        "type": "list"
+    },
+    {
+        "id": 409116096,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:43.892Z",
+        "type": "list"
+    },
+    {
+        "id": 409116433,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:54.566Z",
+        "type": "list"
+    },
+    {
+        "id": 409116437,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:59.943Z",
+        "type": "list"
+    },
+    {
+        "id": 409116525,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:12.109Z",
+        "type": "list"
+    },
+    {
+        "id": 409116530,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:17.216Z",
+        "type": "list"
+    },
+    {
+        "id": 409116597,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:41:59.592Z",
+        "type": "list"
+    },
+    {
+        "id": 409116600,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:42:04.920Z",
+        "type": "list"
+    },
+    {
+        "id": 409116731,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:45:17.797Z",
+        "type": "list"
+    },
+    {
+        "id": 409116735,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:45:23.060Z",
+        "type": "list"
+    },
+    {
+        "id": 409116821,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:47:24.133Z",
+        "type": "list"
+    },
+    {
+        "id": 409116825,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:47:29.581Z",
+        "type": "list"
+    },
+    {
+        "id": 409122378,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:48:17.287Z",
+        "type": "list"
+    },
+    {
+        "id": 409122427,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:49:05.282Z",
+        "type": "list"
+    },
+    {
+        "id": 409123792,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T09:16:48.255Z",
+        "type": "list"
+    },
+    {
+        "id": 409123850,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T09:17:48.651Z",
+        "type": "list"
+    },
+    {
+        "id": 409123857,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T09:17:54.301Z",
+        "type": "list"
+    }
+]
+2019-11-01 14:48:01 INFO  RestAPI:69 - Status_Code----200
+2019-11-01 14:48:01 INFO  RestAPI:89 - Finish
+2019-11-01 14:48:01 INFO  RestAPI:20 -  GET Request 
+2019-11-01 14:48:05 INFO  RestAPI:37 -  Checking Response Body for GET Request By ID
+2019-11-01 14:48:05 INFO  RestAPI:39 - Response_Body----{
+    "id": 408409255,
+    "title": "inbox",
+    "owner_type": "user",
+    "owner_id": 96532794,
+    "list_type": "inbox",
+    "public": false,
+    "revision": 1,
+    "created_at": "2019-10-23T09:30:28.945Z",
+    "type": "list"
+}
+2019-11-01 14:48:05 INFO  RestAPI:65 - Status_Code------200
+2019-11-01 14:48:05 INFO  RestAPI:86 -  Finish
+2019-11-01 14:48:05 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 14:48:06 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 14:48:08 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 14:48:09 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 14:48:10 INFO  RestAPI:24 -  Delete Request 
+2019-11-01 14:48:10 INFO  RestAPI:41 - ***** Checking DELETE Request of lists *****
+2019-11-01 14:48:13 INFO  RestAPI:24 -  PUT Request 
+2019-11-01 14:48:13 INFO  RestAPI:41 - ***** Checking DELETE Request of lists *****
+2019-11-01 14:48:54 INFO  RestAPI:26 - POST Request
+2019-11-01 14:48:57 INFO  RestAPI:29 - POST Request
+2019-11-01 14:49:02 INFO  RestAPI:23 -  First GET Request
+2019-11-01 14:49:05 INFO  RestAPI:40 -  Checking validation for GET Request
+2019-11-01 14:49:05 INFO  RestAPI:42 - Response_Body----[
+    {
+        "id": 408409255,
+        "title": "inbox",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "inbox",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-23T09:30:28.945Z",
+        "type": "list"
+    },
+    {
+        "id": 409061487,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:01:44.740Z",
+        "type": "list"
+    },
+    {
+        "id": 409062633,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:19:20.619Z",
+        "type": "list"
+    },
+    {
+        "id": 409062810,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:21:53.312Z",
+        "type": "list"
+    },
+    {
+        "id": 409064517,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:44:35.169Z",
+        "type": "list"
+    },
+    {
+        "id": 409064536,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 12,
+        "created_at": "2019-10-31T12:44:56.763Z",
+        "type": "list"
+    },
+    {
+        "id": 409064815,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:48:35.676Z",
+        "type": "list"
+    },
+    {
+        "id": 409066859,
+        "title": "SANJEEV",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 9,
+        "created_at": "2019-10-31T13:17:05.627Z",
+        "type": "list"
+    },
+    {
+        "id": 409116086,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:38.919Z",
+        "type": "list"
+    },
+    {
+        "id": 409116096,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:43.892Z",
+        "type": "list"
+    },
+    {
+        "id": 409116433,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:54.566Z",
+        "type": "list"
+    },
+    {
+        "id": 409116437,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:59.943Z",
+        "type": "list"
+    },
+    {
+        "id": 409116525,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:12.109Z",
+        "type": "list"
+    },
+    {
+        "id": 409116530,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:17.216Z",
+        "type": "list"
+    },
+    {
+        "id": 409116597,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:41:59.592Z",
+        "type": "list"
+    },
+    {
+        "id": 409116600,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:42:04.920Z",
+        "type": "list"
+    },
+    {
+        "id": 409116731,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:45:17.797Z",
+        "type": "list"
+    },
+    {
+        "id": 409116735,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:45:23.060Z",
+        "type": "list"
+    },
+    {
+        "id": 409116821,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:47:24.133Z",
+        "type": "list"
+    },
+    {
+        "id": 409116825,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:47:29.581Z",
+        "type": "list"
+    },
+    {
+        "id": 409122427,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T08:49:05.282Z",
+        "type": "list"
+    },
+    {
+        "id": 409123792,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T09:16:48.255Z",
+        "type": "list"
+    },
+    {
+        "id": 409123857,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T09:17:54.301Z",
+        "type": "list"
+    },
+    {
+        "id": 409123912,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T09:18:53.478Z",
+        "type": "list"
+    },
+    {
+        "id": 409123920,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T09:18:59.080Z",
+        "type": "list"
+    }
+]
+2019-11-01 14:49:05 INFO  RestAPI:69 - Status_Code----200
+2019-11-01 14:49:05 INFO  RestAPI:89 - Finish
+2019-11-01 14:49:05 INFO  RestAPI:20 -  GET Request 
+2019-11-01 14:49:10 INFO  RestAPI:37 -  Checking Response Body for GET Request By ID
+2019-11-01 14:49:10 INFO  RestAPI:39 - Response_Body----{
+    "id": 408409255,
+    "title": "inbox",
+    "owner_type": "user",
+    "owner_id": 96532794,
+    "list_type": "inbox",
+    "public": false,
+    "revision": 1,
+    "created_at": "2019-10-23T09:30:28.945Z",
+    "type": "list"
+}
+2019-11-01 14:49:10 INFO  RestAPI:65 - Status_Code------200
+2019-11-01 14:49:10 INFO  RestAPI:86 -  Finish
+2019-11-01 14:49:10 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 14:49:11 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 14:49:12 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 14:49:13 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 14:49:15 INFO  RestAPI:24 -  Delete Request 
+2019-11-01 14:49:15 INFO  RestAPI:41 - ***** Checking DELETE Request of lists *****
+2019-11-01 14:49:17 INFO  RestAPI:24 -  PUT Request 
+2019-11-01 14:49:17 INFO  RestAPI:41 - ***** Checking DELETE Request of lists *****
+2019-11-01 14:49:44 INFO  RestAPI:26 - POST Request
+2019-11-01 14:49:47 INFO  RestAPI:29 - POST Request
+2019-11-01 14:49:52 INFO  RestAPI:23 -  First GET Request
+2019-11-01 14:49:56 INFO  RestAPI:40 -  Checking validation for GET Request
+2019-11-01 14:49:56 INFO  RestAPI:42 - Response_Body----[
+    {
+        "id": 408409255,
+        "title": "inbox",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "inbox",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-23T09:30:28.945Z",
+        "type": "list"
+    },
+    {
+        "id": 409061487,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:01:44.740Z",
+        "type": "list"
+    },
+    {
+        "id": 409062633,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:19:20.619Z",
+        "type": "list"
+    },
+    {
+        "id": 409062810,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:21:53.312Z",
+        "type": "list"
+    },
+    {
+        "id": 409064517,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:44:35.169Z",
+        "type": "list"
+    },
+    {
+        "id": 409064536,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 13,
+        "created_at": "2019-10-31T12:44:56.763Z",
+        "type": "list"
+    },
+    {
+        "id": 409064815,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:48:35.676Z",
+        "type": "list"
+    },
+    {
+        "id": 409066859,
+        "title": "SANJEEV",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 9,
+        "created_at": "2019-10-31T13:17:05.627Z",
+        "type": "list"
+    },
+    {
+        "id": 409116086,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:38.919Z",
+        "type": "list"
+    },
+    {
+        "id": 409116096,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:43.892Z",
+        "type": "list"
+    },
+    {
+        "id": 409116433,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:54.566Z",
+        "type": "list"
+    },
+    {
+        "id": 409116437,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:59.943Z",
+        "type": "list"
+    },
+    {
+        "id": 409116525,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:12.109Z",
+        "type": "list"
+    },
+    {
+        "id": 409116530,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:17.216Z",
+        "type": "list"
+    },
+    {
+        "id": 409116597,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:41:59.592Z",
+        "type": "list"
+    },
+    {
+        "id": 409116600,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:42:04.920Z",
+        "type": "list"
+    },
+    {
+        "id": 409116731,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:45:17.797Z",
+        "type": "list"
+    },
+    {
+        "id": 409116735,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:45:23.060Z",
+        "type": "list"
+    },
+    {
+        "id": 409116821,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:47:24.133Z",
+        "type": "list"
+    },
+    {
+        "id": 409116825,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:47:29.581Z",
+        "type": "list"
+    },
+    {
+        "id": 409123792,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T09:16:48.255Z",
+        "type": "list"
+    },
+    {
+        "id": 409123857,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T09:17:54.301Z",
+        "type": "list"
+    },
+    {
+        "id": 409123920,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T09:18:59.080Z",
+        "type": "list"
+    },
+    {
+        "id": 409123971,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T09:19:43.808Z",
+        "type": "list"
+    },
+    {
+        "id": 409123982,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T09:19:49.149Z",
+        "type": "list"
+    }
+]
+2019-11-01 14:49:56 INFO  RestAPI:69 - Status_Code----200
+2019-11-01 14:49:56 INFO  RestAPI:89 - Finish
+2019-11-01 14:49:56 INFO  RestAPI:20 -  GET Request 
+2019-11-01 14:50:00 INFO  RestAPI:37 -  Checking Response Body for GET Request By ID
+2019-11-01 14:50:00 INFO  RestAPI:39 - Response_Body----{
+    "id": 408409255,
+    "title": "inbox",
+    "owner_type": "user",
+    "owner_id": 96532794,
+    "list_type": "inbox",
+    "public": false,
+    "revision": 1,
+    "created_at": "2019-10-23T09:30:28.945Z",
+    "type": "list"
+}
+2019-11-01 14:50:00 INFO  RestAPI:65 - Status_Code------200
+2019-11-01 14:50:00 INFO  RestAPI:86 -  Finish
+2019-11-01 14:50:00 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 14:50:01 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 14:50:02 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 14:50:03 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 14:50:05 INFO  RestAPI:24 -  Delete Request 
+2019-11-01 14:50:05 INFO  RestAPI:41 - ***** Checking DELETE Request of lists *****
+2019-11-01 14:50:07 INFO  RestAPI:24 -  PUT Request 
+2019-11-01 14:50:07 INFO  RestAPI:41 - ***** Checking DELETE Request of lists *****
+2019-11-01 14:51:05 INFO  RestAPI:26 - POST Request
+2019-11-01 14:51:08 INFO  RestAPI:29 - POST Request
+2019-11-01 14:51:14 INFO  RestAPI:23 -  First GET Request
+2019-11-01 14:51:18 INFO  RestAPI:40 -  Checking validation for GET Request
+2019-11-01 14:51:18 INFO  RestAPI:42 - Response_Body----[
+    {
+        "id": 408409255,
+        "title": "inbox",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "inbox",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-23T09:30:28.945Z",
+        "type": "list"
+    },
+    {
+        "id": 409061487,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:01:44.740Z",
+        "type": "list"
+    },
+    {
+        "id": 409062633,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:19:20.619Z",
+        "type": "list"
+    },
+    {
+        "id": 409062810,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:21:53.312Z",
+        "type": "list"
+    },
+    {
+        "id": 409064517,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:44:35.169Z",
+        "type": "list"
+    },
+    {
+        "id": 409064536,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 15,
+        "created_at": "2019-10-31T12:44:56.763Z",
+        "type": "list"
+    },
+    {
+        "id": 409064815,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:48:35.676Z",
+        "type": "list"
+    },
+    {
+        "id": 409066859,
+        "title": "SANJEEV",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 9,
+        "created_at": "2019-10-31T13:17:05.627Z",
+        "type": "list"
+    },
+    {
+        "id": 409116086,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:38.919Z",
+        "type": "list"
+    },
+    {
+        "id": 409116096,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:43.892Z",
+        "type": "list"
+    },
+    {
+        "id": 409116433,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:54.566Z",
+        "type": "list"
+    },
+    {
+        "id": 409116437,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:59.943Z",
+        "type": "list"
+    },
+    {
+        "id": 409116525,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:12.109Z",
+        "type": "list"
+    },
+    {
+        "id": 409116530,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:17.216Z",
+        "type": "list"
+    },
+    {
+        "id": 409116597,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:41:59.592Z",
+        "type": "list"
+    },
+    {
+        "id": 409116600,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:42:04.920Z",
+        "type": "list"
+    },
+    {
+        "id": 409116731,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:45:17.797Z",
+        "type": "list"
+    },
+    {
+        "id": 409116735,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:45:23.060Z",
+        "type": "list"
+    },
+    {
+        "id": 409116821,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:47:24.133Z",
+        "type": "list"
+    },
+    {
+        "id": 409116825,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:47:29.581Z",
+        "type": "list"
+    },
+    {
+        "id": 409123857,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T09:17:54.301Z",
+        "type": "list"
+    },
+    {
+        "id": 409123920,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T09:18:59.080Z",
+        "type": "list"
+    },
+    {
+        "id": 409123982,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T09:19:49.149Z",
+        "type": "list"
+    },
+    {
+        "id": 409124036,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T09:21:05.242Z",
+        "type": "list"
+    },
+    {
+        "id": 409124041,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T09:21:11.127Z",
+        "type": "list"
+    }
+]
+2019-11-01 14:51:18 INFO  RestAPI:69 - Status_Code----200
+2019-11-01 14:51:18 INFO  RestAPI:89 - Finish
+2019-11-01 14:51:18 INFO  RestAPI:20 -  GET Request 
+2019-11-01 14:51:22 INFO  RestAPI:37 -  Checking Response Body for GET Request By ID
+2019-11-01 14:51:22 INFO  RestAPI:39 - Response_Body----{
+    "id": 408409255,
+    "title": "inbox",
+    "owner_type": "user",
+    "owner_id": 96532794,
+    "list_type": "inbox",
+    "public": false,
+    "revision": 1,
+    "created_at": "2019-10-23T09:30:28.945Z",
+    "type": "list"
+}
+2019-11-01 14:51:22 INFO  RestAPI:65 - Status_Code------200
+2019-11-01 14:51:22 INFO  RestAPI:86 -  Finish
+2019-11-01 14:51:22 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 14:51:23 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 14:51:24 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 14:51:25 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 14:51:27 INFO  RestAPI:24 -  Delete Request 
+2019-11-01 14:51:27 INFO  RestAPI:41 - ***** Checking DELETE Request of lists *****
+2019-11-01 14:51:30 INFO  RestAPI:24 -  PUT Request 
+2019-11-01 14:51:30 INFO  RestAPI:41 - ***** Checking DELETE Request of lists *****
+2019-11-01 14:53:24 INFO  RestAPI:26 - POST Request
+2019-11-01 14:53:27 INFO  RestAPI:29 - POST Request
+2019-11-01 14:53:32 INFO  RestAPI:23 -  First GET Request
+2019-11-01 14:53:35 INFO  RestAPI:40 -  Checking validation for GET Request
+2019-11-01 14:53:35 INFO  RestAPI:42 - Response_Body----[
+    {
+        "id": 408409255,
+        "title": "inbox",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "inbox",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-23T09:30:28.945Z",
+        "type": "list"
+    },
+    {
+        "id": 409061487,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:01:44.740Z",
+        "type": "list"
+    },
+    {
+        "id": 409062633,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:19:20.619Z",
+        "type": "list"
+    },
+    {
+        "id": 409062810,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:21:53.312Z",
+        "type": "list"
+    },
+    {
+        "id": 409064517,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:44:35.169Z",
+        "type": "list"
+    },
+    {
+        "id": 409064536,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 17,
+        "created_at": "2019-10-31T12:44:56.763Z",
+        "type": "list"
+    },
+    {
+        "id": 409064815,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-10-31T12:48:35.676Z",
+        "type": "list"
+    },
+    {
+        "id": 409066859,
+        "title": "SANJEEV",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 11,
+        "created_at": "2019-10-31T13:17:05.627Z",
+        "type": "list"
+    },
+    {
+        "id": 409116086,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:38.919Z",
+        "type": "list"
+    },
+    {
+        "id": 409116096,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:29:43.892Z",
+        "type": "list"
+    },
+    {
+        "id": 409116433,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:54.566Z",
+        "type": "list"
+    },
+    {
+        "id": 409116437,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:37:59.943Z",
+        "type": "list"
+    },
+    {
+        "id": 409116525,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:12.109Z",
+        "type": "list"
+    },
+    {
+        "id": 409116530,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:40:17.216Z",
+        "type": "list"
+    },
+    {
+        "id": 409116597,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:41:59.592Z",
+        "type": "list"
+    },
+    {
+        "id": 409116600,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:42:04.920Z",
+        "type": "list"
+    },
+    {
+        "id": 409116731,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:45:17.797Z",
+        "type": "list"
+    },
+    {
+        "id": 409116735,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:45:23.060Z",
+        "type": "list"
+    },
+    {
+        "id": 409116821,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:47:24.133Z",
+        "type": "list"
+    },
+    {
+        "id": 409116825,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T06:47:29.581Z",
+        "type": "list"
+    },
+    {
+        "id": 409123920,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T09:18:59.080Z",
+        "type": "list"
+    },
+    {
+        "id": 409123982,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T09:19:49.149Z",
+        "type": "list"
+    },
+    {
+        "id": 409124041,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T09:21:11.127Z",
+        "type": "list"
+    },
+    {
+        "id": 409124154,
+        "title": "SANJEEV\t",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T09:23:23.382Z",
+        "type": "list"
+    },
+    {
+        "id": 409124165,
+        "title": "SINGH",
+        "owner_type": "user",
+        "owner_id": 96532794,
+        "list_type": "list",
+        "public": false,
+        "revision": 1,
+        "created_at": "2019-11-01T09:23:28.840Z",
+        "type": "list"
+    }
+]
+2019-11-01 14:53:35 INFO  RestAPI:69 - Status_Code----200
+2019-11-01 14:53:35 INFO  RestAPI:89 - Finish
+2019-11-01 14:53:35 INFO  RestAPI:20 -  GET Request 
+2019-11-01 14:53:39 INFO  RestAPI:37 -  Checking Response Body for GET Request By ID
+2019-11-01 14:53:39 INFO  RestAPI:39 - Response_Body----{
+    "id": 408409255,
+    "title": "inbox",
+    "owner_type": "user",
+    "owner_id": 96532794,
+    "list_type": "inbox",
+    "public": false,
+    "revision": 1,
+    "created_at": "2019-10-23T09:30:28.945Z",
+    "type": "list"
+}
+2019-11-01 14:53:39 INFO  RestAPI:65 - Status_Code------200
+2019-11-01 14:53:39 INFO  RestAPI:86 -  Finish
+2019-11-01 14:53:39 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 14:53:41 INFO  RestAPI:26 -  PATCH Request 
+2019-11-01 14:53:42 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 14:53:43 INFO  RestAPI:26 -  PUT Request 
+2019-11-01 14:53:44 INFO  RestAPI:24 -  Delete Request 
+2019-11-01 14:53:44 INFO  RestAPI:41 - ***** Checking DELETE Request of lists *****
+2019-11-01 14:53:47 INFO  RestAPI:24 -  PUT Request 
+2019-11-01 14:53:47 INFO  RestAPI:41 - ***** Checking DELETE Request of lists *****
